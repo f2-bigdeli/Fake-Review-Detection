@@ -1,0 +1,739 @@
+PRODUCT_CATEGORY,RATING,LABEL,REVIEW_TEXT,SOURCE,TEXT_LENGTH,SENTIMENT_POLARITY,RATIO_REPEATING_WORDS,IMPORTANT_WORDS_COUNT,STOPWORDS,FK_SCORE,CAPITALIZATION_COUNT,PUNCTUATION_COUNT
+Toys_and_Games_5,5.0,F,"My children have really enjoyed this set and the materials are good.  My son loves this one.I bought this for my son for Christmas and he absolutely loves it. The only thing that I do like about it is the size of the hat. My son is 4 and loves to play with it. He's also the youngest one in the house and it is a little challenging for him to hold the pieces together. I think it is a nice toy for a little one, but not for a grown-up. The little one will probably love it for a while. I would buy this again, but maybe for a few more years.My son loves this car!  It is very",AMAZON,120,0.23557692307692307,0.14018691588785046,3,72,2.8,13,14
+Movies_and_TV_5,5.0,F,"This is one of the better ones I've seen in a long time, and I'm just glad I finally got the chance to see it. The sound is great, the sound is",AMAZON,32,0.3642857142857143,0.1111111111111111,0,18,3.6,5,5
+Pet_Supplies_5,5.0,F,"Y dogs could eat these, but I thought they would be a little more difficult to get them to eat. I had to get a couple of extra cans out of the box, and now it's a little difficult to get them to eat them.I bought this for my dog who is a chewer.  He will go to the vet and try to chew on",AMAZON,65,-0.14583333333333334,0.1864406779661017,0,39,4.9,5,6
+Toys_and_Games_5,5.0,F,"Omg... this Is a super cute set, the materials are thick and sturdy, and the figures",AMAZON,16,0.17777777777777773,0.15384615384615385,0,8,7.2,2,5
+Sports_and_Outdoors_5,5.0,F,I bought a couple of these for my son and they fit perfectly. He loves the way he can slide them on the floor without a problem. The only drawback is the side panel is a little tight.,AMAZON,38,0.20678571428571427,0.11428571428571428,0,22,3.5,3,3
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I got this for my daughter. She loves it. It is very cute and the material is very soft. I had to get a size down but the waist is a perfect length. The color is beautiful and the material is very thin. I wish it was a bit thicker. The material is a bit stretchy but the length is good. The material is very soft and I love it. I would buy it again.This dress is really cute. I received it in a very nice box. I would highly recommend it.I love these, they fit true to size.",AMAZON,99,0.3982962962962963,0.15294117647058825,3,56,1.5,14,14
+Home_and_Kitchen_5,5.0,F,"Fits my 32 oz. Ozark, and I love the fact that it comes with a small",AMAZON,16,0.125,0.0,1,8,-0.8,3,2
+Kindle_Store_5,4.0,F,This was a very interesting book. The characters were well developed and kept my interest.,AMAZON,15,0.375,0.0,0,8,6.2,2,2
+Electronics_5,5.0,F,"These are not exactly like the ones I bought, but I did find that the dimensions were just right.  The ear buds are a bit small, but if you don't mind having",AMAZON,32,-0.029761904761904767,0.14285714285714285,1,20,4.8,4,4
+Electronics_5,4.0,F,"In the past six months, I have had the Garmin and Garmin XR 360s in the same car. I had the Garmin, and the Garmin XR 360s in the same car. I have been in the same car for about two years and have had the same issues with the Garmin. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car. I have the Garmin, and the Garmin XR 360s in the same car.",AMAZON,194,-0.015625,0.059880239520958084,0,121,1.6,68,27
+Books_5,3.0,F,"I wanted more from Dean Koontz.  I was a little disappointed in the ending, but I think",AMAZON,17,-0.14583333333333334,0.06666666666666667,0,10,4.2,5,2
+Toys_and_Games_5,4.0,F,"Bought as a gift.  We have had the wooden trains for a few months now and this one is a favorite.  The plastic trains are very sturdy, and the wood is very sturdy.  The wooden train is a good",AMAZON,39,0.19999999999999998,0.2,1,24,2.4,4,4
+Kindle_Store_5,5.0,F,21Books and Jackie Ivie just go to the beginning and you know it's going to be a great read.  Great job!I liked this book but the writing was a bit slow. The story was a little rushed.  I would have liked to see more of the characters in the book.,AMAZON,50,0.4017857142857143,0.1590909090909091,2,27,3.4,7,6
+Tools_and_Home_Improvement_5,5.0,F,Very sturdy and well made.  I love the look and feel of this lamp.  I'm very pleased with the finish and,AMAZON,21,0.45,0.16666666666666666,1,12,0.1,3,3
+Home_and_Kitchen_5,5.0,F,"Very easy to use, very easy to clean. Easy to clean. Cleaning is easy.",AMAZON,14,0.45444444444444443,0.3,0,6,-0.9,3,4
+Pet_Supplies_5,2.0,F,The ends of this get ripped off and the dogs try to jump on it. I have one dog,AMAZON,19,0.0,0.05555555555555555,0,11,-0.2,2,1
+Tools_and_Home_Improvement_5,5.0,F,"Throws a lot of light. really bright and the light is very bright. The only downside is that it's very dimmable, which is annoying if you're not careful.",AMAZON,28,0.23250000000000004,0.13636363636363635,1,17,3.4,2,6
+Tools_and_Home_Improvement_5,4.0,F,"These work fine for me.
+
+Overall, I'm happy with these bulbs.  They work well and the extra light output is very nice.  I also like the fact that the bulb is made of plastic.  It's not waterproof so it will be hard to hold on to.
+
+I received these bulbs as a gift and they are in great shape and look great.These are great. I just installed them with the wire stripper and they work great. It's very easy to install and works great",AMAZON,84,0.4890277777777778,0.16666666666666666,3,47,1.0,10,12
+Pet_Supplies_5,5.0,F,fits perfectly fast shipping and easy to assemble.  The two large bowls are just the right size to,AMAZON,18,0.2833333333333333,0.11764705882352941,0,7,3.3,1,1
+Kindle_Store_5,5.0,F,"Grabbed this book and am now a part of the third book in the series. I am looking forward to reading the next one.
+
+*I received a copy of this book",AMAZON,31,0.0,0.21428571428571427,0,17,2.6,3,3
+Movies_and_TV_5,4.0,F,great  movie arrived in time to be the best in the history of this great movie!  The,AMAZON,17,0.9333333333333332,0.1875,2,9,5.2,1,1
+Pet_Supplies_5,1.0,F,"Product not any thing like this. The only reason I gave it 4 stars is because the one we bought from the vet said it was ""too small"" and ""too big"". This is a small toy and the vet says it will last a few years.",AMAZON,46,-0.11666666666666665,0.15,1,27,3.4,4,7
+Toys_and_Games_5,5.0,F,Perfect for my 18mo old. She loves the wooden trains. She also loves the music and the lights.,AMAZON,18,0.3666666666666667,0.2,0,8,2.1,3,3
+Kindle_Store_5,5.0,F,"I am enjoying the series and will continue with the series.
+
+If you have been following the series and have not read the previous books in the series you",AMAZON,29,0.11111111111111112,0.17857142857142858,0,19,6.6,2,1
+Books_5,5.0,F,"I've been enjoying this book for a long time and I've read it several times. I'm a big fan of the Dresden Files, but this is the first time I've read it that I've had to reread it",AMAZON,38,0.13999999999999999,0.1935483870967742,0,23,4.8,7,7
+Home_and_Kitchen_5,4.0,F,"This is a a very nice set and the price is good.  I have a few of the other two sets that I bought, but they are the ones that I have purchased for myself.  I have been in the market for a set for years and this is the one for me.  It is a good size and very durable.  I am very happy with this purchase.I just bought a new Amazon Prime Prime membership for my 6 year old daughter.  She loves it!  I love it!  It has a magnet, which is great, and is easy to use.",AMAZON,100,0.4312247474747475,0.14772727272727273,2,66,1.7,14,12
+Electronics_5,4.0,F,"I use this at a time when I am running a few thousand miles, and I am not using a GPS.  The GPS is a bit of a pain to use, and it does not have a dedicated GPS in the camera.  I wish it had an option to provide a dedicated GPS.  I have also tried it with a Garmin phone and it does not work.  I wish I could buy a GPS app for it, but I",AMAZON,79,-0.2,0.18055555555555555,0,50,4.7,25,7
+Home_and_Kitchen_5,5.0,F,Very nice and sturdy. I use it as a long-term storage container for my small bags of,AMAZON,17,0.265,0.0,0,9,1.9,2,2
+Pet_Supplies_5,5.0,F,Both dogs loved it!!  We have 3 dogs and they all love it!  I have one,AMAZON,16,0.8125,0.14285714285714285,1,10,-1.8,3,3
+Clothing_Shoes_and_Jewelry_5,4.0,F,My husband loves these for the price and the fit. He says they are very comfortable and he doesn,AMAZON,19,0.46,0.16666666666666666,0,13,2.3,2,1
+Pet_Supplies_5,1.0,F,Got this at the beginning of the day.  We've had it for a couple of weeks now and it's working great. ,AMAZON,21,0.8,0.11764705882352941,0,14,2.7,2,4
+Pet_Supplies_5,2.0,F,"I have a female golden, and she is an aggressive chewer.  This is the only one I will feed her.  I will also give her the Tylenol",AMAZON,27,0.09999999999999999,0.16666666666666666,0,18,3.3,5,3
+Toys_and_Games_5,5.0,F,Very simple game for toddlers.  Easy to learn and fun for adults.My son loves this!,AMAZON,15,0.10208333333333333,0.08333333333333333,0,6,-0.8,3,3
+Tools_and_Home_Improvement_5,4.0,F,"Good Blade. It did dull a little, but it is good enough to make a difference.
+
+I would not recommend this knife, unless you're a professional, so you should not buy it.
+
+Update:
+
+I was able to get it to sharpen very quickly with no problems. I have used it for over a year and it has become a quality knife. I have had it for about a month now and it still works great. It's very easy to sharpen. I would highly recommend this knife.I've owned these for about",AMAZON,90,0.31613636363636366,0.18421052631578946,3,54,3.0,11,15
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I love the color orange and it's a very comfortable fit.  I have a wide foot and a wide foot bed and I am a 32D, so I'm a bit large but it's a little snug in the heel.  I wish it was a bit wider in the toe box.  I have a wide foot and I can wear the ankle high boots so I'm not going to be getting any complaints from others.  The color is very vibrant",AMAZON,79,0.15234523809523806,0.17142857142857143,1,46,4.7,10,9
+Movies_and_TV_5,3.0,F,"Watched this twice in one weekend. The first time I was in London, I saw this one. It's not the best movie, but it is the best one. The only other movie I have watched in the last 30 years is this one. This one is still the best. I love it. I have to say it's a great movie. If you haven't seen it",AMAZON,65,0.49166666666666664,0.18867924528301888,2,38,0.5,12,12
+Toys_and_Games_5,5.0,F,"We got this dollhouse for my grand daughter.  She loved it.  It's been a great addition to her collection.  She loves to play with her dolls.  She's been taking it out and putting it back in.  I wish it had a little more furniture for the little ones to play with.  I also wish the plastic was a little more solid.  I wish there were more lights and sounds.  The only reason I gave it 5 stars is because it's very small.  You'd think it would be too small for our little ones to play with.  The dollhouse is definitely bigger than I expected it to be.  It's also made of wood that is easier to store.  I'm not sure if the wood is going to be durable, but it's sturdy enough to keep my grand daughter entertained for a long time.  I don't know if the wood is going to last as long as I thought it would, but it's definitely made of wood that will last for years to come.  I'll update this review when I find more wood for my daughter's collection.My nephew was very happy with this.  He loved it!  He loves it!  He's about 7 months old and loves playing with it!Very nice gift for a nephew who loves this toy.  He was thrilled to receive it.",AMAZON,222,0.19435483870967737,0.21390374331550802,1,128,2.7,25,35
+Kindle_Store_5,5.0,F,~I received a free copy of this book in exchange for an honest review.This was a great read.  I had a lot of fun with the characters and the storyline.  This is a good book to read in a short time.This was a very good story. The characters were well developed. I liked the story and the storyline. I hope it continues to be a great series.This was a very good book. I love the characters. I loved the way the story went on. I loved the ending. I loved the way the author ended it. I just couldn't get into it. It was like reading a fairy tale. I can't wait to read the next book.This book was well written and I enjoyed the characters. I didn't like how it was a little short and the story ended abruptly. I hope the next book is a little longer. I don't really know what to expect but I will definitely recommend this book to anyone. I received a free copy of this book in exchange for an honest review.This was a good book. The plot was good,AMAZON,187,0.4042857142857142,0.2125,11,97,2.9,25,27
+Toys_and_Games_5,5.0,F,I bought these for my son's 3rd birthday party.  He loves them!  They are,AMAZON,14,0.0,0.0,0,8,0.1,3,3
+Pet_Supplies_5,2.0,F,"Despite great efforts on our part to make the dogs comfortable, it's important to keep the dog's hair from falling out of the hood.  The dog is tall and is very active.  The hood is not overly stiff so it stays on well.  The dog has had no issues wearing it.  I highly recommend it.I had to return it because the product was bad. I was getting a",AMAZON,68,0.09605442176870752,0.15254237288135594,1,37,3.5,7,9
+Sports_and_Outdoors_5,5.0,F,"I like this multi-pack as it has the wide opening for two full packs of water. I just use a pair of the open front ones.  The open front one is great for storing water or food.  It has a large storage capacity.  I like the two large pockets for the pockets.  I also like the fact that the compartment is made of several different pockets.  I like the fact that the compartment is made of an adjustable strap.  It's very easy to open and close the compartment.
+
+The included pockets are nice and easy to store.  There's a small pouch that is a good size for water, but it's not big enough to hold a full bladder.  There's a small small pouch for air, but it's not huge enough to hold a full bladder.  It's very small for a small tent.
+
+The tent is very spacious.  It has a wide opening for water.  There are two other compartments that can hold water.  The other compartment is just a smaller one that has a narrower opening that can be used for cooking.  The zipper is a nice feature that keeps the water out of the zipper. ",AMAZON,196,0.10968509984639017,0.2235294117647059,6,101,4.2,17,26
+Movies_and_TV_5,4.0,F,"Disclosure:  I'm a John Waters fan and the movie is a great deal for him.  If you like John Waters, you will like this",AMAZON,24,0.8,0.2,3,13,3.3,7,4
+Tools_and_Home_Improvement_5,5.0,F,"This was the best deal I have ever paid.  I will be purchasing more!Very nice.I bought this to replace the Schlage 32-60-8 bulb that I replaced with this one.  It works great, and the size is perfect.  I used it for the kitchen and kitchen tables.  I did have to replace the bulb on the kitchen countertop",AMAZON,57,0.9333333333333332,0.20408163265306123,0,33,2.3,10,9
+Books_5,4.0,F,"This is the 2nd in a series, and the third is a book that I read through one day. I had to read it before going to bed and I'm sure it's been worth it. It's a very good read. This is one of those books that should be read by every family member. I read it several years ago and it is a classic. I will read it again. I have read all of her books and enjoyed all of them. This one is not for the faint of heart, but for the most experienced readers. This book was just ok. I had read the book several times and was happy to read it. It is a fun story and I would recommend this book to any family. I would recommend this book to anyone who likes a good story.",AMAZON,141,0.34229166666666666,0.1774193548387097,2,86,3.2,15,17
+Electronics_5,5.0,F,"Our new LG 42LV5400 is a real steal. The included lens hood is a must have for anyone looking for a new lens hood, and the video quality is crystal clear. The kit lens hood is great for anyone looking for a good size for the price. If you have a small camera or DSLR, the kit lens hood is a must have. With this lens hood, you can buy all of the features of the kit lens hood with a fraction of the price of the kit lens hood. If you want to know if this lens hood is worth the extra money, it's a good buy. The kit lens hood is great for anyone looking for a good size for the price. If you don't need to buy the kit lens hood, it's a good buy.",AMAZON,138,0.38636363636363635,0.18032786885245902,7,67,4.1,16,16
+Pet_Supplies_5,3.0,F,"I'm sure these work well, but it's not as comfortable for my puppy as it would be for",AMAZON,18,0.45,0.13333333333333333,0,12,5.6,1,3
+Kindle_Store_5,5.0,F,"the digital version for kindle, but I thought it was good enough.
+
+The story has a lot of",AMAZON,18,0.2333333333333333,0.0625,1,10,3.3,2,2
+Pet_Supplies_5,5.0,F,Perfect!!! This crate is the perfect size and quality for my two dogs.  They both love the extra,AMAZON,18,0.625,0.0625,2,9,3.3,3,4
+Sports_and_Outdoors_5,2.0,F,"<div id=""video-block-R3MACS6WP225SQ"" class=""a-section a-spacing-small a-spacing-top-mini video-block""></div><input type=""hidden"" name="""" value=""https://images-na. ssl-images-amazon.",AMAZON,10,-0.16666666666666666,0.0,0,0,36.7,9,37
+Books_5,5.0,F,"This trilogy is one of the best I've read in a long time, and I'm just starting to get into the series. The characters are complex, and the plots are very interesting.",AMAZON,32,0.25999999999999995,0.11538461538461539,0,19,6.0,4,6
+Kindle_Store_5,5.0,F,"This is a fun read, and it kept me engaged. I will definitely be reading the next one. I read this book in the last few days and have enjoyed it. The characters are well written and well developed. I would highly recommend this book. This was an excellent read. The characters were strong, likable, and the story line was great. I would recommend this book to all my friends.",AMAZON,70,0.2994444444444444,0.1694915254237288,0,36,3.2,8,11
+Movies_and_TV_5,4.0,F,This is a great family movie. The story is very good and the characters are very believable.,AMAZON,17,0.7866666666666666,0.2,2,10,4.2,2,2
+Pet_Supplies_5,5.0,F,Can't go wrong with Lucky.  The only problem is that it's kind of hard to put on.  I had to replace the bowls and then the plastic part.  I used this to put my dog's food on the floor.,AMAZON,39,0.02833333333333332,0.125,0,22,1.2,5,7
+Tools_and_Home_Improvement_5,4.0,F,Good value for the money.It's a very good flashlight.  I have a few of these in my living room and I am using them,AMAZON,24,0.47,0.13636363636363635,2,16,2.9,4,3
+Electronics_5,5.0,F,For 300 bucks this is a great lens.  I've used it for a couple of years and it's still very good.  I also bought the T1i lens and it's still good.  It's a little pricey for a lens but I don't think you can beat the price.  I also like the,AMAZON,51,0.555625,0.19047619047619047,2,28,1.4,7,9
+Kindle_Store_5,5.0,F,It a very cool story.  I love the way it was written.  The characters were well,AMAZON,16,0.4775,0.14285714285714285,1,9,1.8,3,2
+Clothing_Shoes_and_Jewelry_5,4.0,F,"I cycle and run and this has kept me cool. I will keep this bag in my wardrobe.I bought this for my son, who lives in the North Dakota area.  He's 5'3"" and 110lbs, and this is",AMAZON,37,0.35,0.16666666666666666,0,22,1.0,6,8
+Books_5,4.0,F,"This approach to healthy eating and an easy way to make a healthy lifestyle for yourself.
+
+While I agree with the premise of the book, I have to say that it is not that easy.  It takes a lot of patience, especially for a teenager",AMAZON,45,0.37333333333333335,0.21951219512195122,0,27,4.4,5,4
+Movies_and_TV_5,4.0,F,"Riding high on the success of his first movie, ""Two Towers"", director Charles Bronson has crafted a film that seems to defy logic.  The basic premise of the film is that a young man is kidnapped by a group of drug dealers.  This young man is attacked and eventually killed by a group of drug dealers.  A young man discovers the kidnapped man and is convinced that he is the killer.  The young man's story is told in an unforgettable way, and the film is highly effective.  The film is set in the early 60s, and the action scenes are great",AMAZON,101,0.23642857142857146,0.15555555555555556,1,46,6.3,10,12
+Pet_Supplies_5,2.0,F,These were ok and our dog loves them.We have two dogs and they have been eating them.  They have had a lot of health issues and have improved their coat.  This is a good product and we will buy it again.This is the second litter box we've purchased for our cats. ,AMAZON,51,0.39999999999999997,0.13333333333333333,1,30,1.4,5,6
+Kindle_Store_5,4.0,F,"One of the Caliber women, Juliette, has decided that she wants to go to college and is determined to get the best possible education.  She is not sure if she should go to college or stay in college.  She has been thinking",AMAZON,42,0.2375,0.18421052631578946,0,23,6.4,5,4
+Electronics_5,5.0,F,"It works great to keep my phone safe. I've also used this for a few hours. I had to replace a broken cord in the cable, so it should work fine.",AMAZON,31,0.22333333333333333,0.11538461538461539,1,17,1.4,3,5
+Kindle_Store_5,3.0,F,"Though published in 2016, this book has been an instant hit for me.
+
+The premise of the story is simple enough, but the characters are complex enough to keep you interested in the story. The author has been in the business of writing about paranormal occurrences and this book gives you the basics of the subject matter to read and understand. The story is told from the perspective of a young woman who is facing a difficult decision to become a witch.",AMAZON,82,-0.06851851851851852,0.17105263157894737,0,44,8.9,4,6
+Sports_and_Outdoors_5,4.0,F,"The Bondi head bands are a little too wide and tight for my liking, but I like them.I bought this for a friend",AMAZON,23,-0.15535714285714286,0.09523809523809523,1,12,3.1,4,2
+Movies_and_TV_5,2.0,F,"more of an action movie, but the movie is a good one.
+
+The movie has a",AMAZON,16,0.4333333333333333,0.21428571428571427,1,10,0.5,1,2
+Electronics_5,4.0,F,"This waterproof bag is easy to carry and the materials are thick enough to make it comfortable to carry. I had to replace a couple of the plastic plastic bags in the case as they were not well protected. If you're thinking about going with this bag, you should definitely consider a 2 pack with a 2-5 pack or a 3 pack with a 3 pack. Overall, I would not buy this bag again. It works great.",AMAZON,77,0.1904761904761905,0.17647058823529413,0,40,5.8,6,9
+Clothing_Shoes_and_Jewelry_5,4.0,F,"Top is super sexy and looks great, the materials are thick enough to make it comfortable to wear. I bought this for my son, he loves it! He wears it often and it's comfortable. It's not a waterproof boot, it's a mesh boot. I ordered a full size up.",AMAZON,49,0.34259259259259256,0.15789473684210525,0,25,2.4,5,11
+Electronics_5,4.0,F,"I just got this today and it works fine.  I will keep my review in order to share my experiences.  The only thing I can say is that it does take a little getting used to.  It does not work for me.  I have to turn it on for the wifi to work.  I will keep it on and use it on my laptop as well.  I just wish it was a little longer and more durable.I have a camera in my home that uses a lot of memory. I use it every day, and it is a great little device. It has a nice LED indicator that shows you where it is in use. It has a lot of information on it, and it has a small rubber case that I can use to",AMAZON,135,0.16712962962962966,0.18699186991869918,1,86,3.4,16,12
+Electronics_5,4.0,F,"I bought this  LG TV for my son's third generation Macbook Pro. I was just blown away by the picture quality. The colors and clarity were amazing, the picture was clear and vivid. I can't imagine a",AMAZON,37,0.20625000000000002,0.16129032258064516,0,17,4.6,10,6
+Tools_and_Home_Improvement_5,5.0,F,"I own quite a few of these and they work just fine.  These work well and the extra light is great.  I am using them in the kitchen, in a shed, in a closet, in the hallway, in a bedside table, and in my back yard. ",AMAZON,46,0.28809523809523807,0.18421052631578946,0,29,3.4,3,8
+Books_5,4.0,F,"A very interesting approach to reading an academic work.  I will admit that I have been a bit distracted by the subject matter.  I have not had a chance to read it, but it was well worth the effort",AMAZON,39,0.19583333333333336,0.1388888888888889,0,24,4.8,4,3
+Tools_and_Home_Improvement_5,5.0,F,Easy to install on gutters and has the right tools.works great.Nice little light.  Works as advertised.  The plastic parts are solid and the light is pretty sturdy.,AMAZON,27,0.22593537414965986,0.09090909090909091,0,11,3.6,4,5
+Books_5,4.0,F,"if you like noir fiction, this book is for you. I will admit that I read this one twice. If you are a fan of both books, this is a must read. I enjoyed this book. It was a little slow for me. I don't know how I would rate a book without a lot of detail, but I did enjoy it.",AMAZON,62,0.103125,0.17307692307692307,1,38,1.4,8,10
+Movies_and_TV_5,4.0,F,I learned a lot about this movie and the movie itself.  I also learned about the actors.,AMAZON,17,0.0,0.3333333333333333,0,10,1.9,2,2
+Clothing_Shoes_and_Jewelry_5,4.0,F,"I've been wearing these boots for a couple years now and I'm still happy with the boots. They're so comfortable and the fit is perfect. The only complaint I have is that the boot is a little tight on my feet so I have to wear a size 4 to get them to fit. They're great shoes, I'm very happy with them and they are a great deal. They're just a tad narrow and I can't tell you how they feel until I wear them. Overall, I'm very pleased with the boots. I really love these boots! I have them in a size 8, and they fit like a glove! I love the way they look! I ordered a size 8, and they fit perfectly. I love the color, too. I like how they have a buckle that is a little longer than I thought, which is great. I wear a size 8, and I wear a size 10, so I thought it would be a little longer for me.",AMAZON,170,0.3677795031055901,0.1773049645390071,8,102,2.5,23,29
+Toys_and_Games_5,5.0,F,This game works very well and has the pieces to make a full puzzle that is well built and functional. The game is easy to understand and is fun to play. I would definitely recommend this game to any child. Highly recommended.,AMAZON,42,0.02703703703703703,0.18421052631578946,0,20,5.2,4,4
+Clothing_Shoes_and_Jewelry_5,5.0,F,Love the belt.  It looks great and the chain is very comfortable.  The only thing that is,AMAZON,17,0.455,0.13333333333333333,2,10,0.8,3,2
+Electronics_5,5.0,F,"I would have to say that this is the best part of the product, just the way the speaker is placed.  The plastic part is very clear, and the cover is very sturdy.  The only complaint I have is that it seems to be",AMAZON,44,0.20599999999999996,0.2,0,29,4.3,4,4
+Clothing_Shoes_and_Jewelry_5,5.0,F,These are great. They are soft and comfortable. I love them. I also like the way they look.,AMAZON,18,0.45,0.21428571428571427,2,10,0.3,4,4
+Movies_and_TV_5,5.0,F,"EX-cellent; truly excellent:  well-produced, well acted. Highly recommended. Thank you!Very good.",AMAZON,11,0.62,0.0,0,2,14.7,5,9
+Tools_and_Home_Improvement_5,5.0,F,"Bought this to finish up a bunch of pieces of furniture I needed to make for the bathroom. It's not the best design, but it works well and is a great value.",AMAZON,32,0.9,0.14285714285714285,1,18,4.8,3,4
+Toys_and_Games_5,5.0,F,"This is the only figure that has the pieces on her back. She is a very strong figure.
+
+I had to get a solid piece of the plastic to cover the pieces. The only thing I can do is cut a piece of paper from the bottom of the box and glue the pieces together. I ended up using glue to make the holes and then I glued",AMAZON,68,0.11266666666666666,0.171875,0,42,3.9,7,4
+Books_5,4.0,F,"It is not going to be an easy read, but I will admit that it is a pretty good read.I had to read this book to get",AMAZON,27,0.4611111111111111,0.12,1,17,2.7,3,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I got this nursing bra and it was the best bra I have ever had. I am 5'6"" and the bra fit perfectly. The bra is very comfortable and it is made well. The material is soft and the cups are comfortable. I would recommend this to anyone.I love these.  They are so comfortable and I can wear them all day with a little bit of extra weight.  I wear them to work all the time and they are a perfect size for me.  I have a hard time finding good nursing bras that fit me correctly.  They are a perfect size for me and I like that they do not fall out when I do not wear them for a long time.  I wear a size 10 and they fit perfectly.  I like the fact that they are a little longer than the ones I have tried on and I do not have to worry about the bra falling out after I have washed them.  They are comfortable, lightweight, and I am very happy with them.  I am planning on wearing them for a few more weeks and I am very happy with them.  I am very satisfied with the purchase.Very nice and very comfortable for all my daily wear.  I was worried that the material would stretch a little, but it is very soft.  I would recommend these if you are looking for a comfortable and flattering skirt.I like the color and the fit.  I love the drawstring.I love the way it looks and the size.  I ordered a medium, so I'm very happy.I love the style of these shoes. I got the black and it is a little big",AMAZON,282,0.375940170940171,0.16996047430830039,8,174,3.2,34,30
+Home_and_Kitchen_5,2.0,F,This is not what I wanted. The quality is just what I wanted. The dimensions are just what,AMAZON,18,0.0,0.3125,1,14,2.1,5,2
+Kindle_Store_5,5.0,F,Thomas hits another one out of the park with the third book in the series. I was given an ARC in exchange for an honest review.  The author is a wonderful writer and I look forward to reading,AMAZON,38,0.5333333333333333,0.1111111111111111,0,19,4.7,7,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,"Fits perfect. Loving it. Although it has the wide width of a full size, it's",AMAZON,15,0.4625,0.0,0,7,4.4,3,4
+Clothing_Shoes_and_Jewelry_5,2.0,F,"Inconsistent sizing. I bought multiple colors. The wide width is too narrow. The waist is too long. I wish the waist was shorter, but that is the only reason I was able to return it. I would not be able to wear this one for long periods of time.Great shoe.  They fit great.  I ordered them in the same size as my regular shoes.  They are very comfortable.  I highly recommend these shoes.I love these shoes. I have been wearing them for years. I'm going to order a second pair in different colors. They are very comfortable and are very comfortable. I like that they are a little longer than my other pairs. They do fit my feet nicely and I'm not going to be wearing them for long periods of time. I would recommend these shoes to anyone.I love these shoes!  I bought the ""deep green"" in black.  I'm hoping they will last a long time.  I'm not a fan of the leather in this shoe.  I was very disappointed with the color of the shoe.  I'm returning them.  I'm very happy with the purchase.Very nice and comfortable!  Perfect fit for a summer day!I have been wearing these for years.  They are great for running.  The material is soft and breathable and they are comfortable.  They are very comfortable.  They are very cute.  I love the cute little",AMAZON,229,0.24257575757575758,0.19148936170212766,5,130,2.6,35,41
+Movies_and_TV_5,1.0,F,"One almost must watch this movie. The story is very good and the characters are very believable. The acting is top notch. The story is also very well written. It is very moving and it keeps you watching. Highly recommend it.I can't imagine what this movie would have been like if it had been released on DVD. I can't imagine the level of emotion and attention to detail that would have been required to make a movie that was so poorly thought out. I think that if it had been released on DVD, it would have been much better.  I think it would have been a much better film.I really enjoyed this movie.  I have watched it over and over and",AMAZON,121,0.33818181818181825,0.21495327102803738,3,65,3.7,18,14
+Toys_and_Games_5,4.0,F,a little difficult for little ones to grasp.  We've had a lot of fun with it.,AMAZON,16,-0.14375,0.15384615384615385,0,9,2.9,1,3
+Books_5,5.0,F,"A very appealing main character, an easygoing, intelligent, and complex character, and a pretty good",AMAZON,15,0.37777777777777777,0.18181818181818182,1,6,12.7,1,4
+Kindle_Store_5,5.0,F,Short story but very heartwarming. I love the way these two men work together.,AMAZON,14,0.2333333333333333,0.0,1,5,3.7,2,2
+Tools_and_Home_Improvement_5,5.0,F,"Nice, substantial feeling faucet. Not an easy task to install but it works for my needs. Works as advertised. The plastic parts are solid and the plastic is solid. The metal part is well made and will last a long time. This faucet has a lot of power and is easy to install and it will last a long time. I've had it for about a year now and I'm happy with the performance and the price. This is a great tool for small jobs. It works well for smaller jobs. I'm not sure why I got it for this price, but it's definitely a good value. I've used this one to get around a ceiling fan on my garage. I don't know if it's the one that I've had since I was a kid, but I guess I have the right one. I have it mounted in my garage, so I have not had to replace it.",AMAZON,158,0.21577380952380953,0.17293233082706766,2,92,3.3,20,25
+Kindle_Store_5,5.0,F,"I gave this book a five star rating because it was good.  There were a few typos and mistakes but the story kept me interested and entertained the whole time.  I would definitely recommend this book to anyone who enjoys a good romance.This is a good story. The characters are well developed. The story is well written and the story is very well told. The ending is satisfying and I would recommend it to anyone who enjoys a good romance.I loved this book.  It was very sweet, very emotional, and",AMAZON,90,0.3575,0.2375,3,45,4.8,10,10
+Clothing_Shoes_and_Jewelry_5,2.0,F,They're kinda cheap and easy to break in. But they're a nice fit for the person who,AMAZON,17,0.45833333333333337,0.0,0,10,0.7,2,3
+Movies_and_TV_5,1.0,F,"We know bin Laden orchestrated this. The fact that he was a U.S. intelligence official is a major part of the reason he was allowed to have a military career. In other words, Bin Laden was not in the military at all. He was a civilian. He had no military experience. He was a good man. He was a great man. And the fact that he was a U.S. intelligence official gives it an interesting twist. He was a very good guy. He was a great leader. And the fact that he was a U.S. intelligence official gives it an interesting twist. He was a very good leader. And the fact that he",AMAZON,113,0.4089583333333333,0.20618556701030927,5,67,3.7,22,19
+Toys_and_Games_5,2.0,F,"Beads are made in China, and have been used by many people in China for a long time. The beads are colorful and the plastic is solid. The beads are not easily damaged by rubbing or shaking.
+
+The beads are designed to last for years. This is a great way for young people to learn about their musical and musical skills.
+
+I highly recommend this product.I bought this for my son to use as a teaching toy. ",AMAZON,77,0.14484848484848487,0.18840579710144928,1,39,4.0,9,8
+Kindle_Store_5,5.0,F,"Love this book of Hildebrands, and will be reading more. I will be reading more of this author",AMAZON,18,0.5,0.3125,1,12,2.1,3,2
+Books_5,5.0,F,"Cool premise for a story, and an entertaining story.  I will admit that I was a bit disappointed in this book.  I liked the story, but not the characters.  The premise of the",AMAZON,33,0.175,0.14285714285714285,0,20,4.2,5,5
+Books_5,3.0,F,"This book is one of the best I've ever read.  I love how the author has a way of painting the story.  I also love the illustrations, which are very interesting.  The illustrations are great.  I would recommend this book.  I recommend it to everyone.I love this series! I can't wait to see how the",AMAZON,55,0.6791666666666667,0.2,3,29,3.6,9,10
+Sports_and_Outdoors_5,5.0,F,"Really love this knife.  It has the wide blade and thick handle.  The knife is pretty sturdy.  The handle is nice, but the sheath is not.  I would definitely recommend this knife to anyone.  I would buy it",AMAZON,38,0.15833333333333333,0.21875,2,18,2.2,6,6
+Tools_and_Home_Improvement_5,4.0,F,"I've got two clickers on my keychain.  These are a nice touch for the price and the quality.  I've also got a couple of the TRS-38A flashlights with a battery operated battery in the back.  I'm going to see if they last long.  They're bright enough to be used in a pinch but the battery is a little short.  I just bought a new TRS-38A.  I like that the battery is removable from the keychain so it won't be lost.  I'm not sure how long it'll last but I think it'll last for a very long time.  I'm not sure about the longevity but I like that it's a small compact keychain and I can carry it around for a very long time.  I'm going to keep it for a very long time.  I just don't think it'll last forever.This is my second pair of these, and I really like the quality of the material on the other.  They are very easy to install, and the rubber part of the head is very easy to install, and I like that the head is very sturdy.  They are very comfortable to wear, and have a nice feel to them.  I would recommend these for those that wear gloves",AMAZON,207,0.1009455667789001,0.18857142857142858,6,122,4.0,28,33
+Electronics_5,5.0,F,"I can't get enough of this. The quality is amazing. If you have been following the other reviews, this is the most solid and reliable TV out there. The sound is great.",AMAZON,32,0.271875,0.07692307692307693,1,20,2.9,6,6
+Pet_Supplies_5,5.0,F,nice custom dog tag. nice and sturdy and the materials are good.  my dog loves this one,AMAZON,17,0.6333333333333333,0.2,0,6,2.0,0,2
+Toys_and_Games_5,4.0,F,"The Mr. Pencil Stylus works better than the regular wooden pen.
+
+The art style is pretty good.  The pen is plastic, but the paper is plastic, so it is pretty durable.
+
+The pen is a little thin, but it is very soft.  The pen is not a very durable pen, and it will not last long.  I think the quality of the pen is great, but I think the pen is just too thin for a pencil holder.  Overall, I think this is a very good pen, and I'm not sure that it is worth the money.
+
+If you like Mr. Pencil Stylus, you'll love this pen!
+
+I'm sure I'll get another Mr. Pencil Stylus for my nephew.I got this for my daughter's 3rd birthday.  She loves it.  I love that it has a little ramp that makes it easier to get to the bottom of the pool.  My daughter is 4 and has had this for about a month now and it's been a hit!  She really enjoys playing with it.  It's easy to set up and she can use it on her own or with the other kids.",AMAZON,190,0.18338734567901233,0.17197452229299362,6,110,2.9,28,33
+Sports_and_Outdoors_5,5.0,F,I used the chain for a couple weeks with the chain included in the package. I was surprised to find that,AMAZON,21,0.1,0.15,0,12,2.7,2,1
+Home_and_Kitchen_5,3.0,F,"seems ok. not very big, but the design is a good one. Nice, sturdy, and functional. Great for the price. Not too big or too small.",AMAZON,26,0.3357142857142857,0.16666666666666666,2,13,1.1,3,8
+Tools_and_Home_Improvement_5,1.0,F,useless tool. the metal handle has a wide opening which is a nice feature for the size of the tool.,AMAZON,20,0.0,0.1111111111111111,0,10,7.6,0,2
+Tools_and_Home_Improvement_5,5.0,F,"Added a modern touch to the old style.  Not too much work for a small person, but",AMAZON,17,0.0625,0.06666666666666667,0,8,0.7,2,2
+Kindle_Store_5,5.0,F,This is one of the best books I've read in a long time.  I can't wait for the next one!I liked this book but the writing was a bit slow. The story was a little rushed.  I would have liked to see more of the characters in the book.  I could have read the book in one sitting but the writing was a little slow.  I just didn't feel like it was a good read.I like a good quick read.  I have read all of the books by this author. ,AMAZON,90,0.26217948717948714,0.23076923076923078,4,49,1.3,10,12
+Sports_and_Outdoors_5,5.0,F,"I've fished with these little tubes for the last 10 years and they work great. I have one in my 6th-door house, and another in my 6th-door neighbors'",AMAZON,28,0.2041666666666667,0.13636363636363635,0,14,4.0,2,6
+Tools_and_Home_Improvement_5,5.0,F,"perfect for pantry, walk in closet, and closet.  I also love that it's been",AMAZON,14,0.75,0.0,1,7,2.5,1,4
+Pet_Supplies_5,5.0,F,This is exactly as advertised. We have 3 dogs and they all love it!We have been using this for a long time and it seems to last us a long time. The only problem is that it is hard to open. I am very disappointed.,AMAZON,45,-0.06851851851851855,0.2,1,29,2.1,5,5
+Sports_and_Outdoors_5,3.0,F,"Overstuffed in thigh area, but not an issue with the legs.",AMAZON,11,0.0,0.0,0,6,2.9,1,2
+Electronics_5,4.0,F,A high-quality cable that contributed greatly to the quality of my video. This cable is a bargain.,AMAZON,17,0.8,0.14285714285714285,1,9,6.6,2,3
+Electronics_5,4.0,F,"I use this projector for a number of reasons, which I will list below.
+
+1. It's small enough to fit in a pocket, or if you don't mind having to carry it around when not in use, it's plenty compact.
+2. It's compact enough to fit in a backpack, or if you don't mind having to carry it around when not in use, it's plenty compact.
+3. The sound quality is decent, and not overly loud, but I would prefer a little more bass, but I'm not sure that's a deal breaker.
+
+The only real issue I have with it is the volume. It's a bit loud, but I would prefer to have it at 1/2 the volume.
+
+Overall, it's a great projector, and the only thing I don't like about it is that it's not quite as bright as the HDTV that I have. It's not the brightest color, but that's not a big deal for me, but it's a big deal for me.
+
+The only real issue I have with it is the remote. The remote is a bit too small for my liking, but it's not a big deal for me either",AMAZON,195,0.09922839506172841,0.23026315789473684,3,122,6.2,22,43
+Movies_and_TV_5,3.0,F,This was an interesting movie.  I liked the movie.  The plot was predictable and the acting was weak.  The acting was not,AMAZON,22,0.08750000000000002,0.15789473684210525,0,13,1.9,4,3
+Books_5,5.0,F,What an amazing author. Her characters are believable and the plots are full of imagination. She does not disappoint. If you are a fan,AMAZON,24,0.4833333333333334,0.047619047619047616,0,15,4.5,4,3
+Tools_and_Home_Improvement_5,5.0,F,"I used this to cut a hole in the wall. I did not need a saw blade, but I had no problem",AMAZON,22,0.0,0.1,0,14,0.5,3,2
+Electronics_5,5.0,F,"It's fine, works well. I use it as a long cable for my computer, and I don't use it much. ",AMAZON,20,0.18888888888888888,0.21428571428571427,0,11,2.5,3,6
+Electronics_5,3.0,F,Nice scenery idea on the web. The only problem is that it's not really a screen protector.,AMAZON,17,0.16666666666666666,0.07142857142857142,1,9,4.2,2,3
+Sports_and_Outdoors_5,5.0,F,"These fit up to a 13.5"" long. I also love that the yellow mesh has a nice touch.  The mesh is a bit loose around the edges so it",AMAZON,29,0.2288461538461539,0.11538461538461539,1,15,1.2,3,4
+Sports_and_Outdoors_5,5.0,F,"I bought some spares for my wife and she loves them. The only reason I gave this a 5 stars is because I am a 32 year old man, so it is pretty much impossible to get this on my belt without a belt clip.",AMAZON,45,-0.07916666666666666,0.14285714285714285,0,25,7.3,4,3
+Kindle_Store_5,5.0,F,Baptista is the owner of a local bakery and has decided to open her own. She's just starting to get into the business but a friend of her recently tells her to take it up with her family.  It's a little difficult for her to stay away from the bakery but her friend offers to take her with her to see if she can be more open with her family.  They make a great couple,AMAZON,75,0.11931818181818182,0.15714285714285714,1,47,7.1,4,5
+Tools_and_Home_Improvement_5,5.0,F,I bought these for my son to wear as a night-vision goggles for him. He has a couple of them,AMAZON,20,0.0,0.1111111111111111,0,14,2.5,2,2
+Tools_and_Home_Improvement_5,5.0,F,"I had another brand before this one, and it worked perfectly.  This one is a bit different.  The blades are plastic, and the weight is plastic, so it is not quite as heavy as the original.",AMAZON,36,0.29375,0.2,0,21,4.4,3,6
+Tools_and_Home_Improvement_5,4.0,F,"Nice quiet fan. However - it has the design flaw of being a little more noisy. I'm not sure why.  The design of the fan is the same as the fan I replaced.  The fan is quiet enough to be quiet enough to enjoy the outdoors.  If you have a large home with a large fan, it will be louder.  If you have a small home with a small fan, it will be quieter.  The sound level is a little low for me, but if you have a large home, it will be louder.",AMAZON,94,0.07462406015037593,0.25,0,56,3.1,9,14
+Movies_and_TV_5,4.0,F,"Lilo and Stitch is a perfect combination, with the exception of the first half of the movie, which is basically a very dark movie, with the viewer experiencing a ""good"" ending. The only thing that I found in the film was that it was a very dark movie. The film seemed to have a lot of blood and gore, which was a very rare occurrence for a movie. The only thing that I did not like was that the two men were all in the same room, which was very strange considering that the film was shot in the same room. The first half of the movie is a very dark film, with the viewer experiencing a ""good"" ending. The only thing that I found in the film was that it was a very dark movie. The only thing that I found in the film was that it was a very dark movie. The only thing that I found in the film was that it was a very dark movie. The only thing that I did not like was that the two men were all in the same room, which was very strange considering that the film was shot in the same room. The second half of the movie is a very dark movie, with the viewer experiencing a ""good"" ending. The only thing that I found in the film was that it was a very dark movie",AMAZON,238,0.056249999999999994,0.15668202764976957,2,152,7.0,19,24
+Toys_and_Games_5,5.0,F,I would buy this for my grand daughter. She is 4 and loves it!Very nice.,AMAZON,15,0.55,0.0,0,9,0.3,3,3
+Electronics_5,3.0,F,I don't use the shell. I don't know why I didn't make a purchase.,AMAZON,14,0.0,0.1111111111111111,0,9,0.1,3,5
+Pet_Supplies_5,5.0,F,"This is a good supplement for my 55 pound Lab. He is growing slowly, but I think he is growing at the same rate as before. The dog is not a great eater, but it is a good supplement.
+
+I will be giving it to my dog next year.My dog is a big chewer and I have to give him the best food out there",AMAZON,65,0.21249999999999997,0.2033898305084746,3,40,3.6,8,6
+Kindle_Store_5,3.0,F,"Troy is a Chicago cop who has been with the FBI for a long time. She's just starting to get into the detective business, and she is running out of ideas. She's been with the FBI since she was a teenager, and she's learned how to handle the FBI. She's a woman who's lost the most of her self-confidence and self-esteem. She's a very smart, independent woman, and she's on a mission to find the killer. She's determined to find him, and the only way she knows how is to go undercover.
+
+I enjoyed the book and the characters, and I was a little confused at first. It took awhile for me to get used to the whole mystery. I loved how the author didn't let us read all of the clues and the little details that she made into a book. I found myself wanting to know what was going to happen next.
+
+It was a great read, and I really enjoyed the characters. The main character, Colton, was very interesting, and I found myself rooting for him to find the killer. It was a great read, and I would recommend it.
+
+I received an ARC of this book in exchange",AMAZON,202,0.23790726817042604,0.1488095238095238,3,119,5.4,32,35
+Kindle_Store_5,4.0,F,"Yes, cheesy and predictable, but it has the right amount of romance and suspense to keep the reader",AMAZON,18,-0.13809523809523808,0.125,0,9,5.6,1,2
+Kindle_Store_5,4.0,F,4 - Love such as this. The characters are well developed and believable. The story flows smoothly.I read this book in one sitting.  The characters were great.  I enjoyed the story.  It was a good read.I absolutely loved this book. I was given this book by a friend in exchange for an honest review.  I loved it.  It was great.  I can't wait to read the next book.  I have a hard time putting down.  I look forward to reading the next book.I loved this story. I was just so excited to read it. It was definitely a different story from the others. I love how the author made me feel like I was in a place. I loved how she made me feel like I was there. It was also a little hard to put down for me as I was constantly in the middle of the story. It was not a bad book but I would have liked more time to really get into the story and the characters. I look forward to reading more,AMAZON,177,0.3081018518518518,0.19480519480519481,6,96,2.9,26,23
+Toys_and_Games_5,5.0,F,"This is a great doll.  She is very soft and cuddly, and the baby has a soft touch.  The plastic parts are also very",AMAZON,24,0.3075,0.2857142857142857,1,14,1.7,3,3
+Tools_and_Home_Improvement_5,4.0,F,"Works great for my Craftsman tool set, as long as you keep your hands on the handle and the tool.",AMAZON,20,0.375,0.1111111111111111,1,10,5.2,2,2
+Pet_Supplies_5,5.0,F,"Just received this in the mail.  It's a good size and my dog loves it.  It's not the best litter, but it is the best litter.  I've been using it for about a year now and it's working.I bought this for my dog who is a chewer.  He will go to the vet and the vet will say that if he chews on something, he will get a vet check.  I have a 60 pound terrier mix and this",AMAZON,79,0.9,0.19402985074626866,1,50,1.8,7,12
+Pet_Supplies_5,5.0,F,I have this pod hanging on a wall with a latch that pops off when you put it on. It's not very sturdy but it's very sturdy.,AMAZON,27,0.05,0.08695652173913043,0,19,2.7,2,4
+Clothing_Shoes_and_Jewelry_5,5.0,F,"My girlfriend is 5""10 and this dress is just too tight for her.  The dress was just too tight and too short.  The dress also is too short, so it is not comfortable.  I would not recommend this dress to anyone.  This dress is so far beyond what I expected.  I have a wide chest and I can't even wear it",AMAZON,61,-0.08214285714285714,0.22641509433962265,0,37,2.5,8,8
+Movies_and_TV_5,5.0,F,I you work in or know an instructor?  You know how to make a difference.,AMAZON,15,0.0,0.15384615384615385,0,9,2.7,2,2
+Sports_and_Outdoors_5,3.0,F,"While the outside is great, it feels a little tight around the back of my head.  It is so small that it is difficult to see the light if you don't close it properly.  I have been using this on a multi-million dollar expedition to the far North for the last month.  I have the most trouble with the phone's battery life.  I have been using it for about a month",AMAZON,71,0.037225274725274725,0.15873015873015872,0,43,4.1,6,8
+Electronics_5,5.0,F,Worked in Debian Linux out of the box.  I've now installed it on a Mac and,AMAZON,16,0.0,0.0,0,10,1.7,5,2
+Kindle_Store_5,5.0,F,Part 3 in the Daniel and Juliet series.  I loved it.  I would recommend it.I read this book,AMAZON,18,0.7,0.06666666666666667,0,7,0.3,6,3
+Clothing_Shoes_and_Jewelry_5,5.0,F,"Small and simple. I love it. The only problem is that it's a little too large. It is so small that it looks like a small, but if you're a medium it's",AMAZON,32,-0.027901785714285712,0.2,2,21,1.7,4,7
+Sports_and_Outdoors_5,5.0,F,This is perfect for my use. The only problem is that it comes with a small screw that is a little too tight. I am using it,AMAZON,27,0.07678571428571428,0.16,0,18,2.1,3,2
+Tools_and_Home_Improvement_5,1.0,F,"I agree 100% with other reviewers. The quality is good, but not spectacular. I have one other reviewer that had the same issue, but that is the case with this flashlight.I have used this bulb in the past. I am very pleased. This bulb is excellent. The light is bright and very bright. I will be buying more.great productworks great for my projectI use this to control my lights and",AMAZON,70,0.36333333333333334,0.22033898305084745,2,42,2.8,9,11
+Sports_and_Outdoors_5,1.0,F,"Maybe I'm doing something wrong, and it's just a part of my job, not a person's.
+
+I had to replace the crank with a different one, so it should work better.
+
+The only thing I'm not happy about is the price. I ordered the full size and it's just a bit too small. I can't tell you how much I like it. I just can't get it to fit my AR.
+
+I received this product at a",AMAZON,77,0.03333333333333333,0.14516129032258066,1,47,2.9,12,16
+Sports_and_Outdoors_5,4.0,F,"This is great pair of goggles. The wide brim is good enough for my 2 year old and the narrow brim is the best for a 2 year old.
+
+This is a great helmet. It is comfortable and will last a long time. If you are looking for a helmet that is not a 2 year old helmet, this one is the helmet for you.
+
+I highly recommend this product.Perfect! I love the color and the color scheme! It's very easy to",AMAZON,82,0.3148958333333334,0.1917808219178082,4,44,2.6,9,10
+Home_and_Kitchen_5,2.0,F,"It's not the rather large, bulky suction cups you'd expect from a single-brand one. It's not the dishwasher safe.  The suction cups are a bit large for the purpose of washing them.  I would prefer one for the dishwasher.  The suction cups are a bit smaller than the ones I have had in the past.  I like the size of the suction cups, but I think that they will be a",AMAZON,71,0.13571428571428573,0.16666666666666666,1,40,3.2,8,11
+Toys_and_Games_5,5.0,F,I love how this case holds up well.  The two buttons on the side of the case are,AMAZON,18,0.5,0.11764705882352941,1,10,0.9,2,1
+Electronics_5,5.0,F,"Have used it for 3-4 days and it does the job.
+
+If you have a",AMAZON,15,0.0,0.15384615384615385,0,11,-1.0,2,2
+Books_5,5.0,F,So well done! Marie continues to expand the story and make it a lot more interesting!Very good.,AMAZON,17,0.6,0.0,0,8,4.2,3,3
+Books_5,5.0,F,"I originalally purchased this book, and I am very pleased with it.  The characters are well-drawn and the story is",AMAZON,20,0.65,0.17647058823529413,0,13,4.8,3,3
+Toys_and_Games_5,3.0,F,"First, the descriptions still say that it's an icebreaker.  I didn't read the description.  If you want to get a solid icebreaker, you'll need a lot of ice.  So, I'd say it's a good deal if you get it.
+
+Also, it's not a real icebreaker, but it's a fun ice breaker.  It's a very different set of icebreakers from the ones on Amazon.  It's very similar to the ""sea of stars"" set, but with a twist.  It's actually a different set of icebreakers, and the real one is different from the real one.  It's a different set of icebreakers, and the real one is different from the real one.  I think it's a good deal if you get it.
+
+Overall, I'd say this set is a good deal, but not a perfect deal.  I've used this set on a lot of different icebreakers, and it's still worth it.  However, it's not a great deal.  If you have a kid, this is a great buy.  But if you're a kid, this is not a great deal.  If you're a kid, it's not a great deal.My son got this for his 3rd birthday and he's always been interested in Minecraft.  This is a great addition to his Minecraft collection,",AMAZON,207,0.1357142857142857,0.17763157894736842,8,115,4.2,23,55
+Sports_and_Outdoors_5,5.0,F,"These bands are amazing. My son has them on and off for a lot of practice. He has been using them for the past month, and they're still holding up.",AMAZON,30,0.17500000000000004,0.16,0,20,1.3,3,5
+Books_5,4.0,F,"I meant to read this book. It's a good read. I would recommend it. I read this book in the middle of the night, and it was great. The story was well told, and the characters were well developed. This is a great series for adults and teens. I highly recommend it. I had to wait a few days to finish this book because I didn't want to put it down. It was an interesting story, and I can't wait to get my hands on it. I loved the characters, and the writing was very good. I am looking forward to the next book in the series. I bought this for my daughter and she loves it. I also gave it to my grand daughter. She loves it. Great book. Love it!This is a very good read. I would recommend it to anyone who wants a little bit of history to read. I would recommend it to anyone who is interested in history. I love this book. I have read all the books in the series and would recommend this book to anyone who wants to know more about the history of the United States. I look forward to reading all of the books in this series.",AMAZON,207,0.38577020202020207,0.1853932584269663,6,118,3.8,26,29
+Movies_and_TV_5,5.0,F,I watched Donna Reed show on TV and thought it was hilarious.  I really enjoyed this one.I really enjoyed the movie. The characters and the,AMAZON,25,0.5,0.22727272727272727,2,11,4.6,8,3
+Sports_and_Outdoors_5,4.0,F,"A terrific hand exerciser, just what I wanted.  I've also used this for a few",AMAZON,15,-0.1,0.08333333333333333,0,9,5.0,3,3
+Toys_and_Games_5,5.0,F,use these with mom in the bath and she loves them.  She also loves the baby dolls.,AMAZON,17,0.0,0.2,0,9,0.7,1,2
+Home_and_Kitchen_5,5.0,F,"These are exactly what I needed. The only problem is that they are small, and the one I bought from the Amazon seller is a",AMAZON,25,0.0,0.17391304347826086,0,17,4.6,5,2
+Movies_and_TV_5,5.0,F,Wonderful Christmas music by these guys. The movie is just too slow. There is a lot of nudity. There is a lot of sexual content,AMAZON,25,0.39999999999999997,0.22727272727272727,0,14,3.4,5,3
+Books_5,2.0,F,"It is extremely, extremely violent and violent, with very little of the science that makes the book particularly violent.  The story is told from a very clear point of view. ",AMAZON,30,-0.50275,0.15384615384615385,0,15,9.1,2,4
+Tools_and_Home_Improvement_5,1.0,F,"POS. Just like all the other ones I bought, these are a nice light for the money.Great product. Great price. I am using it in the shop to cover a lot of metal.I had this on hand for a",AMAZON,39,0.41875,0.12121212121212122,2,23,3.6,9,6
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I love Vanity Fair bras, and I love the look. I will keep my purse in the drawer",AMAZON,18,0.5666666666666667,0.1875,2,9,2.1,5,2
+Sports_and_Outdoors_5,4.0,F,"Works great, my only issue is the part with the latch is a little odd. I have one in my glove compartment and it's a bit difficult to open and close.",AMAZON,31,-0.009027777777777765,0.18518518518518517,0,17,4.6,2,4
+Pet_Supplies_5,3.0,F,I have a 9 wk old lab and she has a sensitive stomach. This is the only one I have found that is a good fit.  The dog is tall and it is large enough to fit,AMAZON,37,0.23928571428571427,0.17142857142857143,1,22,2.2,4,2
+Clothing_Shoes_and_Jewelry_5,1.0,F,Unbelievable! I ordered 2 sizes up. The wide width is too narrow. The wide width is just too narrow. I had to return them. Not worth the money.This is a great,AMAZON,31,-0.03749999999999999,0.24,1,17,1.8,7,6
+Pet_Supplies_5,2.0,F,"Will not do anything for my puppy, she's a small dog and my lab loves to scratch.I bought this for a friend who has a small dog and she had a",AMAZON,31,-0.25,0.21428571428571427,0,20,3.4,2,3
+Home_and_Kitchen_5,1.0,F,"Not pretty. Covered in so many pieces and pieces. Not good enough.Nice, sturdy, and functional.  Great for the price. ",AMAZON,19,0.20625000000000002,0.15384615384615385,2,8,1.6,5,7
+Home_and_Kitchen_5,5.0,F,"Good, arrived after a re-order. I love the look and feel of this pillow.",AMAZON,14,0.6,0.0,1,7,2.5,2,4
+Kindle_Store_5,4.0,F,What a sweetshifter romance. I loved it and the writing. I will definitely be reading the next one. I read this book in the last few days and have enjoyed it. The characters are well written and well developed.,AMAZON,39,0.15714285714285717,0.11764705882352941,0,21,2.8,5,5
+Tools_and_Home_Improvement_5,5.0,F,Better then expected. Bought as a gift and thought it would be a nice addition to the house.Great product. Great price. I am using it in the garage to cover a shed and it works great,AMAZON,36,0.52,0.1875,2,18,4.4,5,4
+Kindle_Store_5,5.0,F,I really enjoyed this story. The characters were well developed and kept my interest. The story is well told and the story moves at a good pace. I would definitely recommend this book to others. Highly recommend it. I absolutely loved this book! I was given this book by a friend in exchange for an honest review. I loved it!  It has great characters and plot twists.,AMAZON,67,0.5122222222222222,0.1896551724137931,3,31,3.8,9,9
+Movies_and_TV_5,4.0,F,This movie is pretty amusing!  I love the movie.  The plot is just a little too simple.  The movie is a little too emotional and the acting is pretty great.  The story is a little too deep.  The acting is pretty good.  The characters are not the best.  The movie is just,AMAZON,52,0.24609375,0.2,1,29,2.3,8,7
+Movies_and_TV_5,5.0,F,"If you were expecting the usual action and action scenes in this movie, this is the movie you are looking for.  The movie is a bit cheesy, but the action is very good.  The only complaint I have is that the story is very long and the movie starts out slow.  I found it a bit short and I would recommend to anyone who is a fan of the show.  It is a fun movie to watch and you will be glad you did.  If you want to see more of the action, then you will",AMAZON,96,0.07966666666666665,0.18181818181818182,0,62,3.6,8,8
+Kindle_Store_5,4.0,F,Really good story. Would have liked more of the backstory. I will keep reading. I would recommend.I read this book in the last few days and have enjoyed it. The characters are well written and well developed. I would like to read more from this,AMAZON,45,0.33749999999999997,0.23076923076923078,3,22,2.2,7,6
+Sports_and_Outdoors_5,5.0,F,I purchased this for my son to wear as a helmet for a backpacking trip. He has been wearing it for the past two months. He is very happy with the purchase.I have used this product in the past and I am very pleased. I have used it on several other products and it is,AMAZON,55,0.1708333333333333,0.2549019607843137,0,36,2.9,6,4
+Pet_Supplies_5,4.0,F,Cats like them. No idea what they are.We have two dogs and they love this stuff,AMAZON,16,0.5,0.07142857142857142,2,8,-1.8,3,2
+Tools_and_Home_Improvement_5,5.0,F,This is the best carton of the bunch.  I will admit that I have been using the,AMAZON,17,1.0,0.125,0,12,1.9,3,1
+Clothing_Shoes_and_Jewelry_5,5.0,F,"Elegance and comfort. The fabric is stretchy and very comfortable.
+
+The only reason I ordered this is",AMAZON,17,0.26,0.2,0,10,4.3,4,2
+Books_5,5.0,F,"I am not normally a fan of the author, but I did find this book a little too dark. I had to read it before going to sleep and I'm sure I will read it again. It was a little too dark for me. I found it boring. I felt like I was reading the book in a very dark place. I wish I could go back and read it again. I really enjoyed this book.",AMAZON,76,-0.0945,0.19402985074626866,2,46,2.8,12,9
+Home_and_Kitchen_5,4.0,F,Does what it's supposed to do. The only problem is that it's kind of hard to put,AMAZON,17,0.10277777777777776,0.07142857142857142,0,12,1.9,2,3
+Pet_Supplies_5,5.0,F,My Boston Terrier puppy absolutely loves this toy. It is a great toy for him to get the extra hair from.  The plastic part is also very easy to clean.  I would definitely recommend this toy to anyone.  I would buy it again.Very good value.Great for the price.  I have a German Shepherd and a German Shepherd,AMAZON,57,0.2922222222222222,0.24,2,26,3.7,14,7
+Sports_and_Outdoors_5,3.0,F,"My physical therapist recommended this product. The quality is good and it fits my hand well. If you have an extra large hand, then this is the product for you.Great case! The only thing I would change is the size of the padding. This is a big problem for me. I have 2 8"" heads and",AMAZON,56,0.1613095238095238,0.16666666666666666,2,31,3.4,8,8
+Toys_and_Games_5,5.0,F,My grandson loves this garbage truck. The pieces are sturdy and it comes with a variety of toys.,AMAZON,18,0.0,0.0,0,9,2.1,2,2
+Pet_Supplies_5,2.0,F,"Cute and love the color!  I love the fact that it is easy to clean!  If you have a small dog, you may want to get the plastic one. I used this to clean my older one in the past, and it's still working!  I would definitely buy this again. My dog loves these! I have had to work on several different kinds of treats. I just bought a new one and I am happy with it. my puppy loves this toy. it is very durable and works well. he does not get any trouble pulling the ball. it has held up well.",AMAZON,103,0.21399147727272727,0.17045454545454544,2,56,0.7,9,15
+Toys_and_Games_5,5.0,F,It is great! My son loves it and the materials are good.  My son loves to throw,AMAZON,17,0.85,0.26666666666666666,0,9,0.8,3,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,"No more damp or cold weather. The only problem is that it's kind of hard to find. I bought this for my son, who lives in the North Dakota area. He's 5'3"" and it fits perfectly. He's going to use it as a shoe for a trip to the Midwest. I also love the fact that it is a little longer than I expected. This shoe is a little tight on him, but he will wear it for a while. He is very pleased with the quality. I love these boots! I have them in a size 8, and they fit great. They are soft and comfortable. I have to wear them every day because I have arthritis in my feet. I can wear them all day without pain, and they're a great boot! I have a lot of arthritis in my feet, so I ordered a medium.",AMAZON,148,0.2377645502645503,0.18548387096774194,3,91,2.7,20,25
+Pet_Supplies_5,5.0,F,"Much smaller bowl than the one pictured, but it is a great deal for a small dog.",AMAZON,17,0.18333333333333335,0.06666666666666667,1,8,4.0,1,2
+Toys_and_Games_5,5.0,F,"Lego polybags are worth the $8 you pay for these.
+
+The only reason I",AMAZON,14,0.15,0.08333333333333333,0,8,1.3,3,2
+Pet_Supplies_5,5.0,F,"My best friend, Sherman, a male lab, was very picky about her treats. She was one of the first to say, ""I love",AMAZON,23,0.39,0.058823529411764705,1,12,0.7,4,6
+Toys_and_Games_5,5.0,F,My two year old nephew (age 3) loves these. We also have a baby one.,AMAZON,15,0.1,0.0,0,5,0.3,2,4
+Movies_and_TV_5,2.0,F,"poor misunderstood killer couldn't help but be impressed with the film's message.
+
+The film has a couple of redeeming qualities. First, it is a film about a great man, but it is also about a man who is a bit of a hater. Second, it is about a man who is a bit of a man, but who is",AMAZON,59,0.3583333333333334,0.22,1,35,4.3,3,9
+Toys_and_Games_5,5.0,F,I love it! My granddaughter loves it and she plays with it all the time.,AMAZON,15,0.625,0.07692307692307693,1,10,0.3,2,2
+Toys_and_Games_5,5.0,F,I love this game. I played it at least once and I will admit that it's been pretty boring. There's a lot of things to do but the game is pretty simple and it's pretty fun. It's not a game that requires,AMAZON,42,-0.03181818181818182,0.17142857142857143,1,26,2.7,5,7
+Sports_and_Outdoors_5,5.0,F,"The sturdiest knife, with a blade of the same thickness and thickness, and a blade of",AMAZON,16,0.0,0.35714285714285715,0,10,6.0,1,2
+Sports_and_Outdoors_5,5.0,F,Very good fit and 1000X better than the regular knee pads I have.Nice bag for the price.I bought this for a friend,AMAZON,22,0.4525,0.1,1,10,1.4,5,2
+Sports_and_Outdoors_5,3.0,F,Tire looks good but not what it should be.  I will keep my Titan in the store,AMAZON,17,0.7,0.0,1,11,0.7,3,1
+Clothing_Shoes_and_Jewelry_5,5.0,F,"These bibs are excellent, they are stretchy and very comfortable.  I also like the",AMAZON,14,0.76,0.08333333333333333,1,8,3.7,2,2
+Books_5,4.0,F,"The ROAD FROM COORAIN addresses the financial problems facing the world today.  The book is a powerful and accessible look at the financial world, both in the United States and in Europe.  The book is well researched and in many cases, well researched.  This is a great book for anyone interested in the financial world.  I recommend it highly.I was so happy to see the first book in this series! I love the characters and the story line! It's very realistic! I can't wait to read the next book.I liked this book and it was great!  I enjoyed it so much that I bought it for my son.  He loves it!I love the characters and the plot and this book was my favorite of the series.  It's a bit slow at times but it kept me going.  I hope the next book is a little more mature and serious.  I enjoyed the book but I didn't like the ending.  I really enjoyed the",AMAZON,163,0.30787037037037035,0.15602836879432624,5,86,3.5,37,22
+Clothing_Shoes_and_Jewelry_5,4.0,F,"These boots WILL keep you warm. The wide width makes them comfortable. The leather is soft and durable. If you want a nice, solid boot, these are the boots for you. The color is vibrant and the material is soft. The size is perfect and the quality is good. I love the fit and comfort. I ordered a size larger than I normally wear and they fit great. I would recommend them to anyone. This dress is really cute. I received it in a very nice box. I would highly recommend it. I love these, they fit true to size. I ordered a medium and it fits perfect. The material is soft and comfortable. I am very happy with them. I got a small and it fit perfectly, the only reason I did not order a large is because the sole is pretty thin. I was going to buy a larger size, but I was really hoping that the size would be a little longer. So far, I am happy with the fit and the quality of the shoe. I ordered a large and it fits perfectly. The inside of the shoe is very tight. The large fits well and is very comfortable. I can't say enough good things about this product. I have been wearing these for years. They are great for running. The material is soft and breathable and they are comfortable. They are very comfortable. They are very cute. I love the cute little pajamas and the cute little boots!Great pants for the price. I wear them every day.",AMAZON,262,0.342892648287385,0.16517857142857142,9,141,3.1,39,38
+Sports_and_Outdoors_5,5.0,F,"I have tried these plastic bottles and the quality is good.  I also have a large one.  The top is a plastic plastic coated with titanium, and the bottom is a plastic coated with titanium.  It's a little thin on the bottom, but it's not too bad.  The bottom is a plastic coated with titanium",AMAZON,55,0.02113095238095238,0.2127659574468085,1,30,6.4,5,8
+Movies_and_TV_5,5.0,F,"This is a story that is an entertaining movie, and I will admit that it's been one of my favorite movies. The movie is a bit long, but it's a very entertaining movie. I had no idea that this film would be so well written and acted.",AMAZON,47,0.4,0.175,0,29,4.7,4,7
+Kindle_Store_5,4.0,F,"Veiled Threat is my favorite book of the year.  I will admit that I was a little nervous about reading it.  I am a bit of a prude when it comes to this book.  It is not a historical romance, it is a very good story.  The first part was a little predictable, the second part was a little more interesting.  I really liked the first part and will probably read the rest of the books in the series.
+
+I received this book for free from the author in exchange for an honest review.This was a great book.  It was fast paced and well written.  The characters were well developed.  It had a lot of mystery and intrigue and was a good read.This is the first book in a series I have read. I have read many of the other books by this author and this one is the best. It was very well written and was well edited. I recommend this book to anyone. I received a copy of this book from the author in exchange for",AMAZON,178,0.3071875,0.16770186335403728,4,101,4.1,19,17
+Tools_and_Home_Improvement_5,3.0,F,"I got these to use on my garage door opener. I also used them for the door opener. I had to replace a couple of the plastic plastic switches in the door opener that had broken. It was a breeze to replace them. I bought this to replace a broken one of my 2 bedside lights I installed in my kitchen. It is a little heavier than I expected, but it works fine. I am very pleased with it. This is a great tool for small jobs.",AMAZON,87,0.06614583333333333,0.19230769230769232,1,49,2.8,10,9
+Movies_and_TV_5,5.0,F,"Due to the circumstances and the financial problems with the film, it's difficult to imagine what the film is going to be like. The script and directing have been superbly executed, and the story is well told. The acting is strong, and the performances are always excellent. The film also has a very good cast, and it has a very good ending. I think the ending is a good one, and I'm not sure if that's because it's a good ending, or if it's just because it's the ending. I think the ending is a little confusing, and that's what makes it a little more confusing. If you want to see a movie that is full of action and laughs, I recommend this film. It's not a perfect film, but it's a good one. I highly recommend this movie for any fan of action. It's a good movie, but not one that you'll be very happy with. It's a lot of fun to watch and there is a lot of action in it. The plot is a bit complex, but I really enjoyed it. The acting is excellent and the plot is a bit convoluted. It's not a bad movie, but if you're not a fan of action, don't watch it.",AMAZON,211,0.27161616161616153,0.1893491124260355,7,127,5.6,17,42
+Pet_Supplies_5,5.0,F,"I'm using the smaller container, but I thought it would be better to make a small container and use a larger container. The plastic part is also very light weight, so it is easy to clean. I have been using this on my dog for about a year now and it has not seemed to have any issues with the odor. I'm very happy with it. I've also ordered another one for my sister's dog, who is an aggressive chewer and a hard chewer. She uses this on her leashes, so I will definitely be buying another one",AMAZON,98,0.2278333333333334,0.23529411764705882,0,56,6.1,8,13
+Books_5,3.0,F,"Icy Sparks is a young woman who lives with her father in a small town in the South Carolina wilderness.  She had a dream of becoming a pariah and was given a job as a paralegal in the local police department.  Her dream is to become a paralegal with the local community.  Her dreams are fulfilled by her father's demise.  Her dreams are fulfilled by her father's death.  Her dreams are fulfilled by her father's death.  She is not happy in her dreams.  Her dreams are fulfilled by her father's death.
+
+I enjoyed the book and am looking forward to reading the next book in the series.  I am looking forward to reading the next book in the series.This is a wonderful book. I've read all of the books and enjoyed them all. I look forward to reading more.This is a wonderful story. ",AMAZON,143,0.21538461538461537,0.20967741935483872,0,75,3.7,17,19
+Pet_Supplies_5,5.0,F,I decided to get this for my 55 pound Lab. He is a small lab and this fits him perfectly. I had to replace the bowls and then the plastic one. The plastic bowls were just a little hard to get the water out of. I would not recommend this product. I bought this for my daughter's cat and it has held up great.,AMAZON,64,0.21416666666666667,0.19298245614035087,0,37,2.7,7,7
+Sports_and_Outdoors_5,5.0,F,"It met the expectation I had. The quality is good, the construction is solid, and the grip",AMAZON,17,0.35,0.14285714285714285,1,10,5.4,3,3
+Pet_Supplies_5,5.0,F,"The last cage we bought had an outside cage, which was a lot of work. We just got a new one and it's a bit too small for her, so we decided to buy another one. It's a good cage, but it's not very secure.",AMAZON,45,0.07208624708624707,0.05555555555555555,1,26,3.2,3,9
+Kindle_Store_5,5.0,F,"This amazing publication will guide you on the journey to creating a full-length novel.
+
+While I read the first two chapters, I kept wondering if there was more to it. The story was well told and the characters were well developed. I would recommend this to everyone.
+
+I received a copy of this book from the publisher in exchange for an honest review.This is a good book for a quick read.  I love the characters and the story",AMAZON,78,0.40185185185185185,0.17142857142857143,2,42,5.3,9,8
+Kindle_Store_5,4.0,F,Alex and Cali are a perfect couple and the chemistry is off the charts. The story flows smoothly and is well written,AMAZON,22,0.7,0.14285714285714285,0,11,4.0,3,1
+Toys_and_Games_5,5.0,F,This was a great Christmas present for my son and he loved it.  He loves to play with it,AMAZON,19,0.5,0.05555555555555555,1,12,1.1,3,1
+Clothing_Shoes_and_Jewelry_5,5.0,F,Great quality. Nice and thick. Not bulky at all.Very good quality.Nice bag.Very pretty.,AMAZON,13,0.41,0.0,2,3,3.8,6,6
+Kindle_Store_5,5.0,F,The Deception series is one of my top favorite series. I will admit that I have been following the story from the very beginning.,AMAZON,24,0.3,0.09090909090909091,0,14,6.8,4,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,"awesome watch, loved it from the start and the price. I will keep it for a long time.",AMAZON,18,0.5499999999999999,0.13333333333333333,0,10,0.9,1,3
+Toys_and_Games_5,3.0,F,"I'm not really sure what happened to the pieces, but I'm pretty sure that the pieces just broke.  I had to replace the pieces and then the plastic was so thin it broke off.  I'll be getting a replacement piece for the rest of the set.  The pieces are pretty darn cute and my daughter will love them.  I wish they'd made the pieces more durable and just made the pieces more sturdy.  Maybe they did some engineering on the pieces, but that's just me.My son is almost 3, and he enjoys playing with this toy.  He is super happy with the toys he received, especially the ""sticky"" one.  I was very disappointed that this toy was a bit small for him.  It was a gift for a nephew.  He also received a little bag of chewing gum as well as a plastic bag of chewing gum.  Overall, a great buy!my grandchild loves this.My daughter loves this.  She loves that there is no button,",AMAZON,164,0.16887254901960785,0.1956521739130435,3,90,2.8,15,27
+Kindle_Store_5,5.0,F,Nice to hear about different types of zombies. Not sure how I feel about the whole Zombie Apocalypse thing. I had a lot of fun with this book.,AMAZON,28,0.17,0.12,0,14,2.2,6,3
+Tools_and_Home_Improvement_5,4.0,F,Bought this as a replacement. I love the look and feel of this lamp.,AMAZON,14,0.5,0.08333333333333333,1,8,0.1,2,2
+Books_5,5.0,F,"My 2 yr. old grandson (I love the movie) loved it. He loves the book. I read this book in the middle of the night, and it was great. The story was well told and the characters were strong. I would recommend this to everyone. I loved this book. I love the book, I love the book, I love the book.",AMAZON,61,0.47333333333333333,0.14583333333333334,4,31,0.4,10,13
+Home_and_Kitchen_5,5.0,F,Much easier to use Can't go wrong with this product. I will keep my review for the next,AMAZON,18,-0.09999999999999999,0.0,0,8,2.1,3,2
+Electronics_5,1.0,F,"As others have noted, it doesn't work with the third generation Intel Gb 2.",AMAZON,14,0.0,0.0,0,6,7.6,3,3
+Sports_and_Outdoors_5,5.0,F,I had bought a simular pair of the wide-body T-Shirt for the first time.  The rangefinder is the most accurate and clear the T-Shirt has ever been.  I have been in the field a lot and have learned a lot from the T-Shirt.,AMAZON,43,0.31250000000000006,0.16216216216216217,0,26,4.1,9,7
+Home_and_Kitchen_5,5.0,F,"great bathroom accessory for our kitchen. The only problem is that it's not really a vacuum, but",AMAZON,17,0.26805555555555555,0.0,2,10,6.6,1,3
+Tools_and_Home_Improvement_5,5.0,F,"A little tricky to install, but the design is just what it's designed for.
+
+The bottom plate is the same size as the bottom plate, and the cover is very large.
+
+The light is in the same position as the rest of the light, and the light is always on.
+
+The light is also bright,",AMAZON,55,0.2656746031746032,0.14893617021276595,0,34,4.0,4,8
+Movies_and_TV_5,4.0,F,Great movie. Once you start watching it you are hooked. I saw it for the first time and am so glad I did. I am a huge fan of Treme,AMAZON,30,0.4875,0.14814814814814814,1,18,0.1,6,3
+Home_and_Kitchen_5,1.0,F,"Bought this for mozzarella....after deep frying it and the crust is thick enough to make cheese. I just cooked a 6 inch slice of cheese, and it is",AMAZON,28,-0.09999999999999999,0.12,0,15,1.0,2,6
+Sports_and_Outdoors_5,5.0,F,"I have a selection of this set and they are just what I needed for my needs. The other two have the same design, but they have different materials, so you should get the right one. It will cost you a bit more for the materials, but you should have the right one. I have the most expensive set and have ordered a second set so far. I just can't get enough of these. Great. I like that the strap is longer than the standard ones. You can use it as a pad if you need to put a lot of weight on it. I like that it is a little thicker than my other pants. I like that it is easier to store your belt. It is more comfortable than I thought it would be. I don't have to worry about the buckle getting stuck. I like that it does not get stuck while I'm walking. I like that it does not have a strap that can be removed. The other pants I have have had trouble with it getting stuck. I have had problems with it getting stuck in the bag while I was walking. I can't say much about that because I haven't had any problems with it getting stuck. I would recommend it for those that have problems. I had this one on my bike for about 2 months. I received a replacement and it was perfect. Very comfortable. I haven't tried it yet, but I am impressed with it. It's very comfortable to wear, very comfortable.",AMAZON,261,0.23475714285714283,0.18584070796460178,5,170,3.4,30,35
+Toys_and_Games_5,5.0,F,"this is a really cute little set, with lots of cute little things for little ones to play with.  The game is easy to understand and is fun to learn.  I would definitely recommend this toy to any child.  Highly recommended.This is a great gift.  The only thing I would change is to order it from Amazon.  I am very happy with this purchase.We got this for our Granddaughters 2nd birthday and they love it.  It's very light and easy to use.  The kids will use it to dance with, or just sit on their little desks and play.  The colors are vibrant and the kids can dance to it.  I think it would be a great gift for any granddaughters who like to dress up.Great quality. Love it!This is a very cool puzzle.  My daughter loves it.  I love that it is a little smaller than I thought it would be.  My only complaint is that the shapes are very small and are not as thick as some",AMAZON,169,0.18295977011494255,0.174496644295302,7,96,3.0,21,20
+Sports_and_Outdoors_5,5.0,F,This little ladder is great!!  I have an old stove that I used for a couple years and it is so small that it is difficult,AMAZON,26,0.032499999999999994,0.16,0,16,3.6,3,2
+Toys_and_Games_5,5.0,F,A great game for the little ones and the kids. I will say that the graphics are pretty good. There are a few things that are noticeable but the game is pretty good. The game takes a while to play and the game itself is,AMAZON,45,0.0647727272727273,0.19047619047619047,1,27,3.0,4,3
+Clothing_Shoes_and_Jewelry_5,1.0,F,"As justified by price, the material is more than adequate. I will keep this bag in my collection.I bought this for my son, who lives in the North Dakota area.",AMAZON,30,0.41111111111111115,0.16,0,17,3.7,5,5
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I really like this pant, it has the wide width and the fabric is soft and comfortable. The bottom is adjustable and the front is adjustable. The waist is a bit loose and the ankle length is perfect. The size is perfect.",AMAZON,42,0.36043956043956044,0.08108108108108109,2,22,3.8,4,5
+Electronics_5,1.0,F,"I purchased 5 speaker sets (iPod, iPod touch, Mac Mini, etc) and one speaker set (iPod Touch) for my desktop computer.  This speaker set is made of high quality material and is in good shape.  The construction is very good and the build quality is great.  I have also purchased 2 of these speakers to replace one I received from a local electronics store.  This speaker set is a great addition to my desktop computer.This is a great product for the price. It works well, but I use it with my ipod and it does not work with my ipod. I have used it with a couple of my other ipod's, but I find it frustrating to have to push it into my ipod when it's not even there. It has a good little cable that I have used with my ipod. I would definitely recommend this product.Works as advertised.This is my second pair of Samsung Galaxy Note II cases.  This one is the best looking.  The only problem I have with it is the color.  The color is very very dark.  The two I have had are a couple of the Galaxy S4 and the Galaxy S6.  I am not sure if this is a problem with the color or not.  I will update if I get a chance.  I bought this case because it was the best looking and I am glad I did.  I am a great fan of Samsung products and this is my second pair.Works great, but not as good as I expected. I have been using a mouse with this mouse for",AMAZON,268,0.35052083333333334,0.15611814345991562,9,152,4.5,48,33
+Toys_and_Games_5,2.0,F,"Cheaply made should come with a set of pieces, which is a nice bonus for the price",AMAZON,17,0.5,0.0625,0,9,4.0,1,1
+Electronics_5,5.0,F,I am using this as a wireless keyboard with the Logitech mouse.  The keyboard does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  The mouse does not have a tab on the bottom.  I have used this mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it does not have a tab on the bottom.  I have used the mouse a few times and it,AMAZON,168,-0.19999999999999998,0.10126582278481013,0,119,3.4,12,10
+Tools_and_Home_Improvement_5,5.0,F,"This is what every hand saw should be.  The included saw blade is a must have for every self-defense tool box.  There are some basic tools that you won't find in this set.  It's a little pricey for a saw blade, but it's worth it.  The finish is excellent, the blades are sharp and the quality is high.  I'd recommend this tool set.  I highly recommend it to anyone who needs an accurate saw blade for their tool box.This is my second review of this product.  This one was a great purchase. ",AMAZON,92,0.25075000000000003,0.14473684210526316,2,47,3.7,9,16
+Clothing_Shoes_and_Jewelry_5,5.0,F,"Love it, very sexy and looks great.  It is a little snug around my hips but not too tight.",AMAZON,19,0.3167857142857143,0.0,1,10,1.1,2,3
+Movies_and_TV_5,5.0,F,"Count Dracula is to my mind a master story, and I will admit that I thought this one.
+
+But the film is a bit too long, and the first half is pretty much just a matter of time.  I would have liked to have seen more of the story, but I felt that it was just too long, and had to wait a bit for the second half.  I would recommend this movie to anyone who is looking for a long film, and not for those who have never seen Dracula before, but for those who know that it is indeed a beautiful story, and will watch it over and over.  It is not too long, and it is filled with good ideas, and the characters are believable.
+
+Overall, this is a good film, and I recommend it to everyone who has seen Dracula before, and for those who have",AMAZON,150,0.24537037037037038,0.18796992481203006,2,95,8.3,13,17
+Clothing_Shoes_and_Jewelry_5,3.0,F,"This bra is very comfortable, and has the wide width. I normally wear a size 10 and ordered",AMAZON,18,0.19000000000000003,0.0625,0,9,3.3,2,2
+Home_and_Kitchen_5,5.0,F,"I have always been frustrated with the suction cups. I have used them for a few years now and they have held up well, but they have the tendency to drop a lot. The cups are a little smaller",AMAZON,39,-0.271875,0.1388888888888889,0,25,3.6,3,3
+Sports_and_Outdoors_5,4.0,F,"Good for yoga, Soft on the skin, and long lasting.
+
+If you have been looking for a pair of yoga pants for your feet and then have a pair of yoga",AMAZON,31,0.18749999999999997,0.25,1,18,4.6,3,3
+Clothing_Shoes_and_Jewelry_5,5.0,F,Is too short for me.  I wear an XL.  My waist is just a tiny bit,AMAZON,16,0.0,0.07142857142857142,0,10,-1.8,5,2
+Electronics_5,5.0,F,"I used this to do some research and found that it was a great value for the money.  I read some reviews about the quality of the video, and the price was very reasonable.  The only complaint I have is that it was a little hard to see the picture on the TV.  I could see it on the TV, but I did not notice the picture on the TV.  It does not matter to me",AMAZON,76,0.04680555555555555,0.18571428571428572,2,51,4.5,13,6
+Home_and_Kitchen_5,5.0,F,Does a great job of keeping the suction on. I also love that it doesn't slide.,AMAZON,16,0.65,0.0,2,9,2.9,2,3
+Pet_Supplies_5,3.0,F,"My Scotties loved this product, and it was the only one I could find that didn't have the extra suction cup. The plastic part is also very light",AMAZON,28,0.305,0.04,0,15,5.2,4,3
+Clothing_Shoes_and_Jewelry_5,4.0,F,"soft material, and nice figure, but it's a little tight around the waist, so I'm not sure how it would hold up.",AMAZON,22,0.016785714285714272,0.0,0,11,7.2,1,6
+Pet_Supplies_5,3.0,F,I am not sure this is an issue with the litter box but I do not think it has. I bought this for a friend who has a small dog and she had a very large ear. It was hard to get the ear out of it.,AMAZON,47,-0.1282738095238095,0.13636363636363635,0,33,2.3,4,3
+Tools_and_Home_Improvement_5,1.0,F,"I have the Aloha Brand, and the Honeywell brand.  I also have the Honeywell brand.  I had a similar model before and bought the Honeywell brand.  This is a very well made product.  I am very pleased.I bought this to replace a broken one I had.  I love the fact that I can use the hose with a single hose.  I just installed it with the wire stripper and it works great!  I would recommend this product to anyone that is looking for a quick fix.I love these lamps.  They are brighter than my old ceiling fan but still work great.  I love the way the light is dimmed, but I like the fact that I",AMAZON,116,0.3124542124542125,0.1650485436893204,4,63,2.4,21,13
+Clothing_Shoes_and_Jewelry_5,2.0,F,"First of all for a woman with a wide foot. I normally wear a size 10 and ordered a size 10. 5. I am a 32D, and the first day I put these on, my foot felt like a size 10. 5.",AMAZON,42,0.1375,0.14285714285714285,1,20,2.9,5,7
+Clothing_Shoes_and_Jewelry_5,4.0,F,Quality is great and doesn't look cheap at all. Very good quality. Nice bag.,AMAZON,14,0.6775000000000001,0.0,3,6,3.7,3,4
+Books_5,5.0,F,"My daughter absolutely LOVES the book. The characters are just so real. There is a strong female character that is not the stereotypical villain, but also is the",AMAZON,28,0.06666666666666668,0.08,0,16,5.7,8,3
+Sports_and_Outdoors_5,3.0,F,"This seems to be ok, but the quality seems to be a little higher than I expected.Great product. Great price. I am a 32 year old man, so it is not that big of",AMAZON,34,0.24375000000000002,0.1724137931034483,2,19,5.2,5,5
+Home_and_Kitchen_5,5.0,F,"Great drying rack. Fits in my laundry room. Great quality.
+
+The only reason I gave it 4 stars is that the plastic parts are very small, and the cover is very flimsy. The only reason I gave it 4 stars is that the mesh filter is so large that it is not a very good filter",AMAZON,56,0.17750686813186814,0.2549019607843137,3,30,4.0,7,5
+Tools_and_Home_Improvement_5,5.0,F,"This is an excellent deal, and I am very pleased with it.
+
+The only downside is that it's very dimmable, which is",AMAZON,22,0.46249999999999997,0.1111111111111111,0,17,2.9,3,4
+Books_5,5.0,F,"I read this book 15 years ago and thought it was a great book, but I was just starting to get tired of the details, and the writing style was not so great as it was with the other books.  I think it was one of the most disappointing books I've ever read.  It was a quick read and I'm glad I",AMAZON,62,0.20092592592592595,0.16071428571428573,2,37,5.5,7,6
+Electronics_5,5.0,F,Seems to do its job.  I have an iPod touch 2nd gen that is about as powerful as a pair of ear buds.  I have used the TRS-80 and it,AMAZON,30,0.15,0.1111111111111111,0,18,1.3,7,3
+Kindle_Store_5,5.0,F,I can hardly wait to find out what happens next. I will admit that I was a bit nervous about this book.,AMAZON,22,-0.14583333333333334,0.05,0,13,2.9,3,2
+Tools_and_Home_Improvement_5,1.0,F,"Please read the description before reading the instructions. The instructions are very simple, and the instructions are a lot more complicated than I expected. The instructions are not clear about how to use it, and it is not clear how to program it. This is a very good product.",AMAZON,49,0.10142857142857142,0.2558139534883721,1,31,5.7,5,6
+Toys_and_Games_5,4.0,F,"People fear this card. Do not buy it. It is too much. If you have a child who is 6 years old and loves Magic, this is the game for you. If you are a parent and",AMAZON,37,0.1,0.1875,0,24,0.3,6,5
+Tools_and_Home_Improvement_5,5.0,F,"This Smoke/CO2 detector practically jumps out of the box.  I will admit that I have been using this detector for about a year now, and it is the first one I have purchased that does not require a battery.  The detector is very quiet, and I don't find myself having to run a generator to get it to work.  The detector is well built and well made.  I just wish there was a way to program the detector to be sensitive to smoke, so that it could be adjusted to detect smoke, so that I could know if I was actually going to smoke a cigarette or not.  I would have liked to have been able to",AMAZON,117,0.24166666666666667,0.16037735849056603,0,72,7.4,14,11
+Sports_and_Outdoors_5,4.0,F,I typically wear 32x32 size shirts. The wide knee is too short and my legs are too long. I had to get a size 32 and the waist was too short. This shirt fits perfectly.,AMAZON,35,0.11388888888888889,0.16129032258064516,0,17,0.8,4,4
+Books_5,5.0,F,"I first read the Lord of the Rings when I was a child. I have read all of the other books in the series. I think that is the most enjoyable part of the book.
+
+The characters are well developed and the story is well told. The story line is not complicated and it is easy to read and follow. The story is told from several perspectives. One is the one who has the most power and the other is the",AMAZON,81,0.22833333333333333,0.14666666666666667,0,50,4.3,10,6
+Sports_and_Outdoors_5,5.0,F,"Took a slap shot to the back of the head. I did not need to fix the one.I bought this for a friend, and he is a big fan. He likes it so much, he bought it",AMAZON,37,0.06666666666666667,0.1875,0,22,-0.3,4,5
+Sports_and_Outdoors_5,5.0,F,"A totally different workout from what I was used to. I did not need a rigid rack, but a pair of the Kydex pedals and the basic Teton pedals. I used these to do a couple of bench press exercises, and one for my bench press. I also used the Kydex pedals to do the most common type of bench press exercises. I've also used these for my bench press with the Kydex pedals.",AMAZON,74,0.05,0.24242424242424243,0,38,5.5,10,8
+Pet_Supplies_5,5.0,F,"I purchased this for my dog.  It's a good size and my dog loves it.  It's not the best for a small dog but the dog loves it.  I'm sure it would be great for a large dog.My dog loves these treats.  The only thing I don't like is the consistency of the treats.  I don't think they're supposed to be just a treat but I think they're made in China.  It's very hard to find anything that is made in China, so I will probably stick with the ones that are",AMAZON,92,0.32313988095238094,0.19736842105263158,3,55,1.9,13,16
+Pet_Supplies_5,5.0,F,"There are 24 cans in this set, and the instructions are very clear, just the right size.
+
+I had to replace the bowls with different bowls",AMAZON,26,0.13857142857142857,0.13043478260869565,0,15,3.6,2,3
+Clothing_Shoes_and_Jewelry_5,5.0,F,"I'm not a fan of the stretchy design, which is a nice touch. I'm just a size",AMAZON,17,0.6,0.07692307692307693,0,11,0.7,2,4
+Sports_and_Outdoors_5,5.0,F,"Amazing product, when you start using it, you feel like you are on a roller coaster. It is so easy to use.",AMAZON,22,0.5166666666666667,0.05555555555555555,1,12,2.9,2,4
+Movies_and_TV_5,5.0,F,"The Green Prince  Musicbox (Cisco)
+
+Two-Disc Collection
+
+Disc 1
+
+Disc 2
+
+Disc 3
+
+Disc 4
+
+Disc 5
+
+Disc 6
+
+Disc 7
+
+Disc 8
+
+Disc 9
+
+Disc 10
+
+Disc 11
+
+Disc 12
+
+Disc 13
+
+Disc 14
+
+Disc 15
+
+Disc 16
+
+Disc 17
+
+Disc 18
+
+Disc 19
+
+Disc 20
+
+Disc 21
+
+Disc 22
+
+Disc 23
+
+Disc 24
+
+Disc 25
+
+Disc 26
+
+Disc 27
+
+Disc 28
+
+Disc 29
+
+Disc 30
+
+Disc 31
+
+Disc 32
+
+Disc 33
+
+Disc 34
+
+Disc 35
+
+Disc 36
+
+Disc 37
+
+Disc 38
+
+Disc 39
+
+Disc 40
+
+Disc 41
+
+Disc 42
+
+Disc 43
+
+Disc 44
+
+Disc 45
+
+Disc 46
+
+Disc 47
+
+Disc 48
+
+Disc 49
+
+Disc 50
+
+Disc 51
+
+Disc 52
+
+Disc 53
+
+Disc 54
+
+Disc 55
+
+Disc 56
+
+Disc 57
+
+Disc 58
+
+Disc 59
+
+Disc 60
+
+Disc 61
+
+Disc 62
+
+Disc 63
+
+Disc 64
+
+Disc 65
+
+Disc 66
+
+Disc 67
+
+Disc 68
+
+Disc 69
+
+Disc 70
+
+Disc 71
+
+Disc 72
+
+Disc 73
+
+Disc 74
+
+Disc 75
+
+Disc 76
+
+Disc 77
+
+Disc 78
+
+Disc 79
+
+Disc 80
+
+Disc 81
+
+Disc 82",AMAZON,171,-0.2,0.005917159763313609,0,1,62.9,90,3
+Toys_and_Games_5,5.0,F,"This is a really neat little set, with lots of different textures and sounds. I like how the colors are bright and the details are solid and clear. This is a really nice set, and I highly recommend it. I bought this for my daughter for Christmas. She loves it and it's great for her to keep in her room. I think it's a great addition to any collection. Perfect! I love the colors and the sound. My daughter loves this toy. I got this for my son's birthday and he absolutely loves it!  He plays with it every day and it makes it a little more fun for him. It's great that he can play with it on his own and we have to keep it in his room for him to play with it at all. It's sturdy enough to keep him entertained while he plays with it. My granddaughter loved this doll. She was not into the dolls in general. She was just a little scared of the kids and didn't really like the idea of her dolls being made of wood. The dolls are fun to play with and she was very pleased with the doll. They are a bit small but they are made of good quality. The head is very big and it is very sturdy.",AMAZON,222,0.32325,0.1794871794871795,10,137,3.4,21,27
+Clothing_Shoes_and_Jewelry_5,5.0,F,"The bracelet is nice and soft. The only problem is that it comes with a small buckle that doesn't fit.  The bracelet itself is very small, and the inside of the buckle is very small.  It will cost me a lot to return it.  I ordered a full size up, and it's still the same size as the bracelet.  I think the bracelet is",AMAZON,64,0.06111111111111109,0.2,0,40,1.6,6,9
+Electronics_5,4.0,F,"I want to correct previous issues with the case, which I did not notice until I received the cover.  I had to replace the case with",AMAZON,26,-0.16666666666666666,0.16666666666666666,0,16,4.8,4,2
+Electronics_5,5.0,F,"I love love love this stylus and the price is good.  I have a few of the other two in the same house, but they're the only ones I have.I bought this to use in my Kindle Fire HD2.  I love it.  I would definitely buy it again.Works great. I did have to replace the right",AMAZON,56,0.2883928571428571,0.14583333333333334,4,33,2.2,12,8
+Tools_and_Home_Improvement_5,3.0,F,"Very bright LED light, but not bright enough to see in the dark.",AMAZON,13,0.16199999999999998,0.09090909090909091,0,6,1.3,4,2
+Electronics_5,5.0,F,running a couple of different brands of headphones with the sound quality of a premium brand.  This is a pair of very good,AMAZON,23,0.4366666666666667,0.09090909090909091,2,12,5.4,1,1
+Movies_and_TV_5,5.0,F,Del Toro is a genius.  He is an actor who has a lot of potential in this film,AMAZON,18,0.0,0.11764705882352941,0,11,2.1,3,1
+Tools_and_Home_Improvement_5,3.0,F,"not sure who designed this; it looks nice and the instructions are pretty easy to follow.
+
+",AMAZON,16,0.2583333333333333,0.0,0,8,6.0,0,2
+Sports_and_Outdoors_5,3.0,F,"It's exactly like the picture, it's just a bit smaller than I'd like.
+
+The other two I had to replace, both of these have a ""turn"" feature that's just a little hard to get on your head",AMAZON,37,-0.07083333333333333,0.13793103448275862,1,23,5.8,4,9
+Movies_and_TV_5,2.0,F,Waste of time watching this movie. The only reason I gave it 4 stars is because I just,AMAZON,18,-0.1,0.058823529411764705,0,10,2.1,4,1
+Pet_Supplies_5,5.0,F,"This was my third upgrade, and I thought it would be a nice addition to the litter box.
+
+I had to replace the old litter box, and the new one, and now it's a little smaller.
+
+I think it's going to be a bit cheaper than the old one.
+
+The old one has a very low dust capacity, and the new one is a bit more active.
+
+This is an excellent product, and a good value for the money.I bought this for a friend who has a small dog who is about 6 months old.  She loved it and we adopted her.  It fits perfectly in her crate and she is comfortable in it.  It's well made and has enough room for her to curl up and play with it",AMAZON,130,0.250094696969697,0.17543859649122806,1,75,4.2,10,16
+Toys_and_Games_5,5.0,F,"This costume is AWESOME.  We have the Brio and Tamiya G1, the Clue and the Monopoly game, the Magic City and the Wonder City, the Swamp and the City of Gold and the City of Gold and the City of",AMAZON,40,0.3666666666666667,0.1388888888888889,0,22,6.4,24,4
+Kindle_Store_5,5.0,F,To say I loved this book is an understatement.  I loved it!  I was just blown away by the way the author explained how to get the words to the reader.  The story was well told and kept me engaged throughout.  I would recommend this book to anyone who wants to read about family and love.  I can't wait to read the next book!I received a free,AMAZON,67,0.4458333333333333,0.15,0,34,2.3,8,7
+Pet_Supplies_5,5.0,F,"When I got a little older, I thought it would be a nice addition to the litter box. I had to replace the cat litter every couple of months. I now use it everyday and it does not smell bad. I have 4 cats and they have been using it for about a month now and it is getting old and dusty. I also use it on my couch and I put a few times a day on it. I have not noticed any odor or dust on the floor. I am not sure how long it will last but I am hoping it will last. I don't want my cats to get sick from this. I have been using this to keep my dogs ears clean and my cat's ears are very nice. It is also great for keeping my dogs teeth clean.",AMAZON,144,0.028130252100840348,0.17557251908396945,1,85,3.0,14,13
+Tools_and_Home_Improvement_5,5.0,F,"Needed to replace a couple of old saw blades.  I did not need a new blade, but a pair of the same blade, and they work great.  I have purchased other saw blades and blades that are in good working order. ",AMAZON,41,0.26856060606060606,0.16666666666666666,1,21,3.9,3,5
+Pet_Supplies_5,4.0,F,I really like the looks of this and the materials. I will keep purchasing it.Very nice.I bought this for a friend who has a small dog and she had a very large ear. It was her only ear. I am very pleased.I bought this for,AMAZON,45,0.08571428571428572,0.20512820512820512,2,28,1.5,7,6
+Sports_and_Outdoors_5,5.0,F,"I added this to my pack. The only problem is that it comes with a small screw driver. I had to replace the driver, but that is the",AMAZON,28,-0.125,0.2,0,19,2.2,3,3
+Clothing_Shoes_and_Jewelry_5,5.0,F,"These socks are so darn cute. The only problem is that they are kind of small. I'm 6'5"" and wearing a 32D, and the 32D is way too big. I ordered a size large, and it fits perfectly. I ordered a size XL and it's just a bit loose. I can't wear it with a bra underneath.",AMAZON,57,0.24842032967032965,0.2,0,31,2.3,10,13
+Electronics_5,5.0,F,I tried one roll to find a way to change the USB port on my Dell XPS 13. 0.,AMAZON,19,0.0,0.058823529411764705,0,7,3.6,8,2
+Toys_and_Games_5,4.0,F,I bought this tweezers to go with the Brio. I also love that they are removable and can be removed.  The plastic parts are also very easy,AMAZON,27,0.5316666666666667,0.16,1,15,3.3,4,2
+Books_5,3.0,F,"First of all,I think Kristian Hannah has the talent to make a book as entertaining as the first one.  If you haven't read the first one, the first one was great, and that book was a little disappointing in parts.  If you are looking for an entertaining read, this one is a must read for you!
+
+I had to wait a bit for the second one, because I didn't want to put the book down.  I don't know if I will have read the third one soon, but I am glad I did!I was skeptical when I read this book.  I am a sucker for suspense and it kept me interested.  It is a fun story of two sisters and their relationship.  I loved how the story was told and how it was told in a way that made the book enjoyable.  I'm a sucker for suspense and this was no exception.  I recommend this book to anyone who is looking for a good story that is not predictable and that",AMAZON,171,0.1787247474747475,0.18543046357615894,1,104,5.8,19,20
+Kindle_Store_5,5.0,F,This book was definitely different from what I thought it would be.  There were a few typos and mistakes but the story kept going. ,AMAZON,24,-0.1,0.0,0,14,5.6,3,2
+Kindle_Store_5,5.0,F,5 stars as always with this book. It is a great book for a beginner to the craft. Great job!I liked this book but the writing was a bit slow. The story was a little rushed. I would have liked to see more of the characters in the book. I could have read the book in one sitting.,AMAZON,58,0.4017857142857143,0.21568627450980393,2,31,2.4,6,7
+Books_5,4.0,F,I really enjoyed this series. I love the characters and the history. I would recommend this to anyone who likes historical romance. I thought this book was a great book.,AMAZON,30,0.45,0.11538461538461539,3,14,5.0,4,4
+Clothing_Shoes_and_Jewelry_5,5.0,F,"One of the best-fitting, and most comfortable shoes ever made. I will be purchasing more in other colors.I bought this for my son, who lives in the North Dakota area.  He's 5'3"" and 175lbs, which are perfect for him.  He wears a size 7 and a size 8.  I ordered a size 8 and the fit is perfect.  He's tall and has a narrow foot, which is good.  He likes that the shoes are made from a very soft material, which is great.  He's very comfortable with them.  He's a huge fan of the suede that he's worn at the gym",AMAZON,101,0.4634615384615385,0.19753086419753085,0,58,2.5,12,22
+Home_and_Kitchen_5,5.0,F,We bought this as a gift for my daughter and she loved it.  It's been a great,AMAZON,17,0.75,0.06666666666666667,1,12,0.7,2,2
+Pet_Supplies_5,5.0,F,"All 3 dogs love these, and they are the best. I will keep them for the next couple",AMAZON,18,0.5,0.0625,1,11,0.9,2,2
+Toys_and_Games_5,5.0,F,Works great! Nice and thick material. The pieces are sturdy and will stand up to the abuse of,AMAZON,18,0.43333333333333335,0.125,0,9,2.1,3,2
+Home_and_Kitchen_5,5.0,F,"I'm happy with it. I've had it for a year and I'm happy with it. Very pretty. I bought this for a friend, and she is very pleased with the quality. The color is beautiful and the material is very thin. I would recommend this to anyone looking for a great stainless steel dishwasher. I also love the fact that it is a non-stick surface, and that it can be washed with soap and water. I will buy another for her in the future. I'm very pleased with the quality of this item.",AMAZON,93,0.4595454545454546,0.16883116883116883,3,59,4.3,10,16
+Home_and_Kitchen_5,5.0,F,Wonderful aroma throughout the house.  The only problem is that it's kind of hard to put,AMAZON,16,0.32708333333333334,0.07142857142857142,0,8,4.1,2,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,This is the second one that I have bought and they fit perfectly. They are a bit snug on my foot but I am happy with the fit. I'm a size 10 so it's a little snug in the heel but they are fine. I'm happy with the quality and fit. I love the color and the fit. They are a little heavier than I expected but I will keep them. I'm hoping they will last a long time so I can buy another pair of them. Very good. I love these boots.,AMAZON,93,0.35303921568627455,0.175,3,57,3.1,14,13
+Electronics_5,5.0,F,any one that needs extra protection. The case is comfortable and it fits my iPad perfectly.,AMAZON,16,0.4666666666666666,0.0,0,7,4.1,2,2
+Electronics_5,5.0,F,"also would recommend this item to anyone). It is a great product for the price. I highly recommend it. If you are looking for a basic cable, this is it.",AMAZON,30,0.32,0.2,1,17,3.9,3,6
+Toys_and_Games_5,5.0,F,Worth $13! Son loved it!My daughter loves this!Very cute and easy to use,AMAZON,13,0.5020833333333333,0.0,0,6,0.2,4,4
+Movies_and_TV_5,5.0,F,The original is the best!  I love the movie.  The plot is just amazing!  The acting is top,AMAZON,18,0.5208333333333334,0.13333333333333333,1,10,0.3,4,3
+Electronics_5,5.0,F,I have 4 Roku units and have had no issues. I will keep my Roku units as backup.,AMAZON,18,0.0,0.25,0,10,0.9,4,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,Love these pants! Elastic inseam and wide width. I normally wear a size 10 but ordered a size 6. 5 and it fit perfect.,AMAZON,24,0.41500000000000004,0.15,1,8,2.1,3,4
+Home_and_Kitchen_5,3.0,F,"Pro it seems comfortable. Cons; first, it doesn't feel comfortable. Second, the handle has a slight clunk. Third, the lid is a bit too short. The lid is still very comfortable. I can't imagine how this could be improved. I'm not a fan of the sticky feel of plastic and it is a little uncomfortable. So I will probably not buy this product again. However, I would not have given it five stars if it were not for the fact that the handle is a little short.",AMAZON,87,0.04402777777777778,0.17142857142857143,0,47,3.5,11,17
+Home_and_Kitchen_5,4.0,F,"Looks better in person. Kinda bulky, but very comfortable.
+
+The only reason I gave",AMAZON,14,0.34,0.0,0,6,3.9,4,3
+Pet_Supplies_5,3.0,F,Wanted the bubonic chronic of this. The only problem is that it's kind of hard to put the suction,AMAZON,19,0.10277777777777776,0.11764705882352941,0,11,3.5,2,2
+Home_and_Kitchen_5,4.0,F,great price good solution for the priceGreat quality and comfortable for a travel mug. I have one in my bathroom and the other in my office.,AMAZON,26,0.44375,0.20833333333333334,3,14,6.0,2,2
+Pet_Supplies_5,5.0,F,"My dogs go crazy for this. The only problem is that it's kind of hard to put on. If you don't put it on, the dog will lay on it and go straight to the floor. It's a little pricey for a dog that's 4 lbs. but for the price it's worth it. I'm also happy with the way it folds up so you don't have to put it on top of the dog and on top of the bed. I love that it's made of solid wood instead of hard plastic. I love that it",AMAZON,96,0.1806547619047619,0.2125,2,59,2.1,7,16
+Tools_and_Home_Improvement_5,3.0,F,I expected these to feel more like the quality of these bulbs.  These bulbs are brighter and more like an incandescent.  I also like the fact that the light output is,AMAZON,31,0.325,0.1724137931034483,4,17,3.8,3,2
+Movies_and_TV_5,5.0,F,"I thought that the movie was an entertaining movie, and I will admit that I thought it was.
+
+But the film itself, as a whole, was not so great. The movie had a lot of potential, and I think that it was going to be a disappointment. The acting was a bit weak, but the story line was pretty good. The only thing that really got me was the ending. The ending was a bit weak.
+
+However, I would recommend that you buy this movie, because it is a great movie. I'm not sure why I didn't",AMAZON,97,0.13214285714285715,0.14814814814814814,2,60,4.5,13,16
+Home_and_Kitchen_5,5.0,F,"These sheets are amazing!  They are so soft and comfortable.  I love that I can just slide them on top of the bed, and they're the perfect size to take up most of my desk.  It's a great addition to my office!",AMAZON,42,0.59375,0.2,2,27,2.7,5,7
+Movies_and_TV_5,4.0,F,"Other than the gratuitous normalization of an entire movie, this is a very enjoyable, well-done, and well",AMAZON,17,0.0062500000000000056,0.0,0,10,9.9,1,4
+Home_and_Kitchen_5,5.0,F,"great humidifier. bought one for my wife and she loves it.
+
+The only reason I gave it 4 stars is that the plastic part is very small, and the cover is very fl",AMAZON,33,0.16875,0.13333333333333333,1,18,5.0,2,3
+Home_and_Kitchen_5,5.0,F,"Wife loves it, especially with the size and the long handle.
+
+The only reason I",AMAZON,15,-0.016666666666666666,0.07692307692307693,0,8,3.9,3,2
+Books_5,1.0,F,"At one point in the book, the author describes how the cold weather that hit the U.S. from the 1940s to the 1950s is the beginning of the great cold war that we are living in.  The author explains that it was the cold weather that pushed the U.S. to the edge of the world, which had helped the country to overcome the brutal past.  He also explains that the U.S. was too slow to develop its nuclear weapons.  The author goes on to describe the Cold War as a result of the efforts of the U.S.",AMAZON,97,-0.378125,0.11363636363636363,1,53,4.0,14,13
+Kindle_Store_5,2.0,F,"The premise sounded great, but it was too short and too predictable. There were too many twists and turns and too many missed opportunities for the story to have any real meaning. There were too many confusing and unnecessary characters, which was distracting. This was an excellent read. I loved this book. I was hooked from the very beginning. I loved it. I can't wait to read the next book in the series. I'm on my way to reading the next book. I read this book in one sitting, and I absolutely loved it! I was so excited to read this story. The characters were real, and the story flowed perfectly. I could not put it down, and I loved it! I couldn't put it down! I can't wait to see what happens next! I highly recommend this book to everyone!This was a great book. I love the fact that the characters were both strong and independent. I thought the author did a great job of bringing the characters together and getting them to fall in love. I was given a copy of this book in exchange for an honest review. This is a great quick read. It is short but it has all the elements needed to get you into the story. It is well written and you will not be disappointed. It will keep you turning pages. This is a good book. It is short but it is full of great characters and a good storyline. This is the third book in the series, but I am not sure if I will read the other books in this series.",AMAZON,271,0.31457364341085275,0.13675213675213677,7,156,3.7,31,37
+Home_and_Kitchen_5,5.0,F,Great product! We use these for an entire summer night. I will keep them for the next couple months.,AMAZON,19,0.3333333333333333,0.0625,1,9,2.3,3,3
+Tools_and_Home_Improvement_5,5.0,F,"Perfect for holding my husband's saw.  It's comfortable and easy to hold up.  If you're an electrician, you may want to get",AMAZON,22,0.611111111111111,0.0625,0,11,2.6,3,6
+Tools_and_Home_Improvement_5,1.0,F,"I've tried a set of these on the market and they're all pretty good. I'm not a big fan of the dimmable ones.  The light output is pretty great and it's bright.  It's not a large beam, but it's very bright.  The dimmable ones are a little more",AMAZON,48,0.3832142857142858,0.1891891891891892,1,28,1.1,5,11
+Kindle_Store_5,2.0,F,A longer book. More character development. The story line is good. I liked the characters and the story. There was a lot of sexual tension and then the sex was a bit slow.,AMAZON,33,0.39999999999999997,0.14285714285714285,0,17,3.5,5,5
+Clothing_Shoes_and_Jewelry_5,5.0,F,Comfy flip flops! No issues with the design.Very good quality.Nice bag!Very pretty.I bought this for my son,AMAZON,17,0.7,0.0,1,7,3.8,6,5
+Electronics_5,4.0,F,Nice bag. Only complaint is that it doesn't fit in the front pocket for my iPad mini.Great product. Great price.,AMAZON,20,0.3,0.0,1,9,8.7,5,5
+Home_and_Kitchen_5,5.0,F,"This is the same bowl that I had bought at a local grocery store for a couple of years. It's not the best quality, but it is the best I've ever used. The only thing I wish it were a",AMAZON,40,0.4,0.17142857142857143,0,26,3.8,6,5
+Books_5,5.0,F,"easily one of the best books I've ever read. I will admit that I was a bit disappointed in this book. The main character is a bit of a ""good",AMAZON,30,0.30999999999999994,0.19230769230769232,0,16,3.7,4,4
+Electronics_5,4.0,F,"This tablet is functional and looks great, with a comfortable fit.  The only reason I gave it 4 stars is that the plastic part is too small to fit comfortably inside the case.  If it had been smaller, it would have been a better fit.  But it's not.  The case is very thin and it has a very minimal feel to it.  It's very thin and has a very small feel to it.  It's very cheap, and I'm not sure if I would be willing to pay more for it, since I don't think I would have enough money to get a better tablet.  The screen is too big for my",AMAZON,111,0.14642857142857144,0.2,0,68,4.0,13,16
+Sports_and_Outdoors_5,5.0,F,It is very realistic in comparison to the wide-angle model.  There is a strong edge to the picture.  The front sight is also clear,AMAZON,24,0.25,0.14285714285714285,0,13,4.1,3,3
+Movies_and_TV_5,5.0,F,"This movie Your Love Never Sleeps, by John Cusack, is a must have for anyone who loves music. The movie is a film that is not only sad, it is truly heart-wrenching.
+
+I was especially pleased with the Blu-ray version. I love the 2.35:1 aspect ratio, and the fact that I can view the entire film at my own leisure. I highly recommend it to anyone who loves music.This is a great series for kids to watch. The kids will enjoy the story, the characters, the action, the action and the action and the action is great.
+
+I would not recommend this to anyone under the age of 13.This was a wonderful movie. It is a wonderful movie",AMAZON,118,0.391764705882353,0.22,3,63,3.9,18,20
+Pet_Supplies_5,2.0,F,This product arrived NOT assembled.  I had to re-order it.  The dimensions were not accurate.  The packaging is very thin.  The ring was not secure.  The metal clasp was not secure.  The clasp was not secure.  I had to return it.  I was very disappointed with this product.  I had to return it.  I am very disappointed with this product.  I am very disappointed with this product.I have two very picky cats and this is the one I have tried.  I love that it is made in the USA and that it is made in the USA.  It is not too big for my small cat but it is too big for my small cat.  I can't believe the size is such a huge difference.  I wish it were made in the USA but I'm happy with the results.  I don't really know what I was expecting from this,AMAZON,149,-0.14694444444444443,0.21875,2,97,3.0,33,21
+Sports_and_Outdoors_5,4.0,F,"Big, sturdy bag, note that it has a wide opening for two full sized bags, the top",AMAZON,17,0.1875,0.0,0,6,4.0,1,3
+Movies_and_TV_5,2.0,F,"If you're 19 yrs old, this movie is for you. It's a lot of fun to see.",AMAZON,17,0.2,0.0,0,10,-0.6,2,5
+Tools_and_Home_Improvement_5,5.0,F,I purchased these for my son to use as a Christmas tree. He loves them!  They look so cute and cute. I also bought the T-shirt to put on the Christmas tree. It was a little difficult to get them out and put them on. I love them.,AMAZON,48,0.1625,0.1951219512195122,1,28,0.5,9,7
+Toys_and_Games_5,5.0,F,"Great product.  I would recommend it.  Great quality.  Also, my daughter loves the",AMAZON,13,0.8,0.1111111111111111,2,4,4.6,4,4
+Kindle_Store_5,5.0,F,Absolutely loved this story. Enjoyed reading it and hoping there will be a book 2. I am looking forward to reading,AMAZON,21,0.6,0.05263157894736842,0,10,4.8,3,2
+Sports_and_Outdoors_5,5.0,F,"These are great for everyday use. The only problem is that they are small, I have one in my hand and the other in my pocket.",AMAZON,26,0.04500000000000002,0.17391304347826086,1,18,3.6,3,3
+Books_5,5.0,F,Great book and now ready for an entertaining summer read. I will keep my eyes peeled for the next book from this author. I look forward to the next book in the series.,AMAZON,33,0.3,0.16666666666666666,1,16,2.9,3,3
+Pet_Supplies_5,5.0,F,"I had been using the Merrick brand for about a year now and my dogs seem to like it.  I had to replace the old one with the new one because it was so expensive.  I still use it, but it's a little pricey.  I ordered the new one and it's great!  I'm very happy with the purchase!  I've had the older one for about a year and it seems to be working fine.  It's very easy to clean and holds up well.  I would definitely recommend it to anyone who uses a ceramic dog bed.  I've found that it is much easier to clean than the older one which takes a lot longer to come out.  I'm also very happy with the fact that my dog is still a puppy and the fabric is still soft.  I have used the new one a few times and",AMAZON,147,0.26148724082934605,0.17054263565891473,1,83,3.8,12,18
+Pet_Supplies_5,1.0,F,Thought this would be great for a puppy with long legs but it's too small for a dog with a short leg. The front part is too small for a puppy with a long leg.The dog loves it.  She's a bit lazy but it's,AMAZON,44,-0.007142857142857141,0.23684210526315788,1,24,0.5,4,6
+Toys_and_Games_5,4.0,F,"Pretty neat, cannot hardly close it. The pieces are just too small. My son loves this toy.I bought this for my son for Christmas and he absolutely loves",AMAZON,28,-0.02291666666666667,0.20833333333333334,0,15,2.5,5,4
+Electronics_5,5.0,F,Super easy to install but not a huge deal.  I will keep my review for a couple months.  Great product!Works great.  The sound is crystal clear.  The ear cups are well padded and the outside cover is very thick,AMAZON,39,0.252962962962963,0.08823529411764706,1,17,2.4,6,5
+Tools_and_Home_Improvement_5,3.0,F,"I didn't read the description, but I thought it was pretty cool.
+
+The handle has a nice rounded shape, and the design is very clear.
+
+This is a pretty nice saw, and it's not cheap, but it's well made and holds a great edge.
+
+I'm not a fan of the 3-way operation, but I think this saw is a good value for the money.
+
+I'm really pleased with this saw, and I'm very happy with the purchase.
+
+If you're looking for a saw that will not break in a shop or driveway, this is the saw for you.
+
+I have one complaint about the mounting mechanism. I have it mounted on the wall and can't find the mounting plate on the top of the",AMAZON,124,0.39846153846153853,0.18811881188118812,3,74,4.6,11,23
+Movies_and_TV_5,4.0,F,these dvds arrived in a timely manner and the movie is a great deal more than I expected. Great movie.,AMAZON,20,0.5,0.1111111111111111,2,10,7.6,2,2
+Movies_and_TV_5,5.0,F,"Great collection of American Classic TV shows, with lots of good history.greatThis movie was one of",AMAZON,16,0.41666666666666663,0.07142857142857142,2,5,5.2,6,2
+Movies_and_TV_5,5.0,F,"I cannot love this movie, it is an interesting and intriguing history.
+
+The movie has a lot of heart and is very informative.  The music is great.  The acting is excellent.  The story line is very interesting.  The special effects are excellent.  The acting is excellent.  The acting is superb.  The special effects are excellent.  The special effects are excellent.  The special effects are excellent",AMAZON,65,0.5689285714285715,0.14814814814814814,1,34,5.6,11,11
+Electronics_5,4.0,F,"I use this lens more often than I thought it would be.  I have a Canon 85-200 f/3.5, a Nikon 70-200 f/4, and a Sony 50mm f/2.8.  I have a Sigma 70-300 f/3.5, and a Sigma 85-200 f/4.  I have a Sony 70-200 f/4, and a Sigma 85-200 f/4.  I have a Nikon 70-300 f/4, and a Sony 50mm f/2.8.  I have a Sigma 70-300 f/4, and a Sony 50mm f/2.8.  I have a Nikon 70-300 f/4, and a Sony",AMAZON,80,0.5,0.13793103448275862,0,38,0.9,21,39
+Sports_and_Outdoors_5,4.0,F,Gave this a 4 stars because it was a little tight but it fits my hand well and fits my other hand fine. The plastic part is,AMAZON,27,-0.01860119047619048,0.19230769230769232,0,14,2.7,2,1
+Books_5,5.0,F,I really enjoyed this book. The characters were well developed and the plot was well written.,AMAZON,16,0.3,0.14285714285714285,1,7,5.2,2,2
+Sports_and_Outdoors_5,4.0,F,"Good looking,  easily scratches.  I have an old stove that is still going strong. ",AMAZON,14,0.4166666666666667,0.0,1,5,3.7,2,3
+Electronics_5,1.0,F,"I had high hopes for this lens, as it is a lens that is just as good as the other two.  The front of the lens is the plastic, so it is pretty straight forward to take photos.  The camera is very light weight, and holds a charge very quickly.  The front is a bit smaller than I would like, but it is a solid enough lens.  I would recommend it",AMAZON,71,0.21383333333333338,0.15873015873015872,1,41,4.1,6,8
+Books_5,5.0,F,"I've read all of his books and I am very pleased with how they all have the same theme.
+
+I had a lot of fun with this book and I'm sure it will be a good",AMAZON,36,0.43,0.18181818181818182,1,27,3.2,4,3
+Movies_and_TV_5,5.0,F,"I am a fan of the old Tonto movies. I saw this one a few years ago. It's not the best movie, but it is the best Tonto movie I've ever seen. I still watch it every time I get home. This one is still one of my favorite movies.",AMAZON,50,0.48,0.2619047619047619,0,24,1.3,9,8
+Electronics_5,5.0,F,So cheap and they work.I love the look and feel of this case. I have one in my bedroom and the other in my office. The sound is crystal clear and it's nice to have a little extra space,AMAZON,39,0.2109375,0.14285714285714285,1,23,2.4,4,4
+Toys_and_Games_5,5.0,F,My mom loved her action figure. The pieces are sturdy and she's happy with the purchase.,AMAZON,16,0.5333333333333333,0.07692307692307693,0,8,2.9,2,3
+Movies_and_TV_5,1.0,F,"What was I watching? and what did I want?
+
+""The Last Man on Earth"" is a two hour film about the last man on Earth, a man who is in his late twenties and early fifties.  He was one of the most",AMAZON,42,0.06000000000000001,0.2777777777777778,0,25,1.5,9,6
+Pet_Supplies_5,5.0,F,"Looks exactly as the picture. I have an 80 pound lab mix and this harness fits him just fine. The harness is also a bit small for him to wear when he is walking but it's well made and well made. The size is perfect for him to wear when walking with us. I have a German Shepherd and a 60 pound lab mix. He has a very long chest and a narrow chest. The harness fits him perfectly and is well made. The harness is adjustable so he can be adjusted. I love that it is made in the USA. I am very pleased with this purchase and will buy it again. This is a very good dog food. I have three dogs, two of whom are tall and skinny. I've had a variety of dog food brands, but this one is the best for them. The ingredients are good, the taste is good, and the dog is happy. I use this food for a week or so and the dogs seem to like it. It's not a terrible food, but I do notice a slight difference in their teeth. The dog would not eat anything else, but this food did help with their teeth.",AMAZON,206,0.4555882352941176,0.17777777777777778,3,117,3.3,23,26
+Electronics_5,5.0,F,"Amazon.com didn't ship the complete set of adapters.  I've tried several of them, but one is a pair of the same size, one is the same size, and the other is the same size.  It's a little pricey for one set, but for two sets, it is worth it.  I've tried them all, and none work well with the same adapters.
+
+So if you want to use the adapters for any purpose, you will need to buy the adapter for your needs.  You can buy the adapter for the same price you would need for the camera and/or other device. ",AMAZON,100,-0.00340909090909091,0.19753086419753085,0,59,3.9,6,19
+Kindle_Store_5,5.0,F,Wow what a series this is. The characters are well developed and the story is well told. The story is well written and the characters are well developed. The writing is great and the story is well told.,AMAZON,38,0.275,0.20588235294117646,1,19,4.6,4,4
+Sports_and_Outdoors_5,4.0,F,"Good cup, no leaking issues. I love the taste. My husband also loves the taste of coffee. Great for emergencies. Great product and works great. Will definitely buy again.",AMAZON,29,0.6,0.09090909090909091,4,10,2.8,6,7
+Tools_and_Home_Improvement_5,4.0,F,Doesn't seal perfectly to the plastic. The only way to seal it is to use a seal,AMAZON,17,0.5,0.2,0,10,3.1,2,2
+Electronics_5,5.0,F,"I just received the item and it arrived on time. I will keep my review in order to share my experiences.  The plastic parts are very sturdy, and the cover is very sturdy.  The only complaint I have is that the case is very thin and doesn't protect the tablet perfectly.  It is very thin and it will hang on the tablet without issue.  I will keep it as a backup when I need to go to the office or when I need to carry around some extra items.  It is very hard to pull out the cover and it will not fold up very well.  I am very disappointed that the case is not thicker.  It would be nice if it had a rubber cover to protect the tablet.This is a great camera for the price.  I was looking for a little flash to give my pictures with and this is the perfect solution.  It was very easy to install and works great.  It is very convenient to carry around as well.  The battery life is also great.  The shutter release is nice, it is easy",AMAZON,187,0.17575000000000002,0.1588235294117647,1,112,4.6,18,17
+Pet_Supplies_5,5.0,F,This is great! Does the job. The only problem is that it's kind of hard to put the bottom on top. The plastic part is also hard to put on the sides.,AMAZON,32,0.25277777777777777,0.2222222222222222,0,18,1.7,4,5
+Pet_Supplies_5,5.0,F,"Product ad described.  Arrived on time and shipping was quick.  Also, my dog does",AMAZON,14,0.3333333333333333,0.0,0,5,2.8,3,3
+Sports_and_Outdoors_5,5.0,F,"I recently bought a new pair of Taurus Cycling Gloves for my husband for Christmas. He has been running and biking for about a year now and is running out of sweat pants. This is a very well made pair of cycling gloves. The size is perfect and the quality is good. I received a free sample for an honest and unbiased review. I ordered this to add to my core fitness program. It works well and seems to last for quite a while. It's very comfortable to wear and is very light weight. The color is a little too pink for my tastes. I'm 5'11"" and weigh 165 lbs. The straps are not too tight. The sleeve is a little thick but that's okay.",AMAZON,125,0.226424512987013,0.1559633027522936,1,67,2.6,16,17
+Clothing_Shoes_and_Jewelry_5,5.0,F,My son is racing all the time and the chain is too tight around his waist.,AMAZON,16,-0.17857142857142858,0.13333333333333333,0,9,3.6,1,1
+Clothing_Shoes_and_Jewelry_5,4.0,F,New Balance no longer goes under my arms.  Not good.  These have a nice look.,AMAZON,15,0.12878787878787878,0.0,0,7,0.3,4,3
+Pet_Supplies_5,5.0,F,It's really big. Unfortunately I had to add an extra layer of fabric around the base to prevent,AMAZON,18,-0.325,0.0625,1,8,6.8,3,2
+Toys_and_Games_5,5.0,F,A big hit with my son. The pieces are sturdy and the puzzle is well made.,AMAZON,16,0.0,0.07142857142857142,0,8,0.5,2,2
+Clothing_Shoes_and_Jewelry_5,5.0,F,"love the skirt -fits me perfect. The only problem is that it's a little too large. I'm 6'5"" and wearing a 32D, and the waist is very large.",AMAZON,28,0.30089285714285713,0.2,1,16,2.2,3,9
+Kindle_Store_5,2.0,F,"At the start of this book, I thought it was a bit boring, but I was pleasantly surprised. The story is told from both Finn and Carrie's point of view, and the characters are well developed. The main characters are well developed, and the story keeps you interested until the very end. I did get a little confused at first by the lack of dialogue. I didn't realize it, until I read the story. It's very easy to confuse the reader, and it's not hard to understand why, since Finn is a great character.",AMAZON,94,0.08371794871794871,0.2077922077922078,1,52,7.1,12,17
+Home_and_Kitchen_5,3.0,F,"Its ok. Doesn't naturally swirl, but it does the job.
+
+The only reason I",AMAZON,14,0.19999999999999998,0.1,0,9,3.7,4,4
+Tools_and_Home_Improvement_5,5.0,F,"PEX makes plumbing a breeze, and it's an excellent product.
+
+If you have a regular shower head, this is a great",AMAZON,21,0.6,0.058823529411764705,1,11,3.8,4,4
+Pet_Supplies_5,5.0,F,"Great for my 13 year old puppy and she loves it.
+
+The only reason I gave it 4",AMAZON,18,0.3,0.0,1,9,2.1,3,1
+Toys_and_Games_5,3.0,F,These are pretty cool as well. The pieces are sturdy and the pieces fit together well. The only thing that I don't like is that they're plastic and not solid. I would definitely buy again.Perfect for my son's 3rd birthday.,AMAZON,40,0.14285714285714285,0.1875,1,20,2.9,6,8
+Toys_and_Games_5,5.0,F,"My granddaughter who is 4 and loves the pieces, decided to try her hand at building this one.",AMAZON,18,0.0,0.0,0,9,6.8,1,2
+Toys_and_Games_5,5.0,F,"Math games. get em, use this. We love this game.",AMAZON,10,0.04999999999999999,0.0,1,3,-1.9,2,4
+Electronics_5,5.0,F,"I have two pioneer twelves.  I have an old Pioneer TRS-40, a",AMAZON,12,0.1,0.3,0,6,2.1,6,3
+Home_and_Kitchen_5,5.0,F,"This is the best incense burner I have ever used. I use it for my small wine collection. I bought this for a friend, and she is a big fan.",AMAZON,30,0.25,0.19230769230769232,0,17,2.5,4,4
+Tools_and_Home_Improvement_5,4.0,F,Powdered blue chalk. Not a real professional quality finish. The finish is just a little too shiny.,AMAZON,17,-0.07361111111111111,0.07142857142857142,1,7,5.5,3,3
+Sports_and_Outdoors_5,4.0,F,"Picked these up for cleaning and they are very well made. I also like the fact that they do not have the side seams, which is nice, but not a big deal. I have had no issues with the carpeting on them. I bought this for my husband for Christmas and he loves it! He is very happy with the item and it is a great deal. We love this hammock! It's a great camping hammock. It has a very comfortable feel to it.",AMAZON,84,0.568125,0.2054794520547945,4,55,2.7,9,11
+Books_5,5.0,F,Enjoyed reading this in my time. The characters were well developed and the plot was well written. Great story. Great story. I liked it.,AMAZON,24,0.56,0.15789473684210525,2,10,4.1,5,5
+Sports_and_Outdoors_5,3.0,F,Never used it cause I had an issue with the latch closing after a few weeks.,AMAZON,16,-0.2,0.0,0,9,6.0,2,1
+Electronics_5,1.0,F,"I have purchased two Panasonic cameras over the years and these are the first that I have ever owned. I had a Canon D810 and the Canon D810 II was the first that I had ever owned. The Canon D810 II is very compact and has a lot of features. The camera features are very intuitive and easy to use. I love the fact that the lens hood is removable. I am very happy with the camera and will purchase it again. I have used the camera for over a year now and I am very pleased with it. For more information, please see the Panasonic website. The Canon D810 II is a great camera and the price is great.",AMAZON,120,0.5075757575757576,0.19090909090909092,2,69,3.8,28,10
+Kindle_Store_5,5.0,F,"Yes, I had to mention that I love the way these two men work together. I was just blown away by how the two people acted.  The way they worked together was amazing.  I was so excited to see this book come out.  This book is so far beyond what I could have imagined.
+
+I did get a little overwhelmed by the book at first, but",AMAZON,66,0.2729166666666667,0.1694915254237288,1,35,2.9,9,7
+Books_5,5.0,F,"I was skeptical at first, but eventually I started to like this book. I really liked the way the story was told. The main character was very interesting, and the dialogue was very interesting. I was sad when I finished the book, but it was a very good book.
+
+I received a free copy of this book from NetGalley in exchange for an honest review.I love reading about the lives of the young women who were on the train with a group of young men in the middle of nowhere.  The stories are compelling and the characters interesting.  I just couldn't get into it and am glad I did.
+
+I read this book in order to learn about the lives of the women who were on the train with a group of young men.  I wanted to know more",AMAZON,139,0.30666666666666664,0.18253968253968253,4,80,5.2,15,13
+Pet_Supplies_5,5.0,F,Very well put together. We have 3 dogs and they all love it!  I have one lab and two small dogs and I am very happy with the purchase. This is a great product.,AMAZON,34,0.475,0.16666666666666666,2,19,0.7,5,4
+Tools_and_Home_Improvement_5,5.0,F,"Works well with Dewalt DW74526C, the only thing I didn't like is the angle",AMAZON,14,0.0,0.08333333333333333,1,7,5.2,6,2
+Books_5,5.0,F,Great book. Very well written. Not an easy read. Very good book. Very well written. Very well written. Great story. I liked it. The characters were great. The plot was interesting. The characters were great. The plot was interesting. The plot was interesting. The plot was interesting. The plot was interesting. The plot was interesting. The plot was interesting.,AMAZON,59,0.5437254901960784,0.19047619047619047,3,26,3.6,17,17
+Clothing_Shoes_and_Jewelry_5,5.0,F,outstanding. Have over a dozen pair of the same pair. I will keep them for the next couple years.,AMAZON,19,0.16666666666666666,0.0625,0,11,2.3,2,3
+Home_and_Kitchen_5,5.0,F,"Looks almost like a real tree. The design is very good and easy to hang.Very pretty.I bought this for a friend, and she is very pleased with the purchase.  The color is beautiful and the quality is amazing.  I wish it was a bit thicker, but it is a nice bed with a nice plush feel.  I wish it had a little more of a plush feel, but it is not as plush as I thought it would be.  I'm not sure if this is a good design, but I really like it.  I put it in a corner of the room where it is mostly used for decorative purposes, and it is very comfortable.  I am very happy with this purchase.I love these pans, they look exactly like the ones pictured.  They are sturdy and the handles are made of sturdy stainless steel.  I love the fact that",AMAZON,149,0.46379166666666666,0.17692307692307693,9,86,3.4,15,19
+Books_5,5.0,F,"It was definitely a break from the usual formula and a good read.
+
+The premise of the story is interesting. The main character is a social worker who has a great",AMAZON,31,0.2785714285714286,0.10344827586206896,2,17,6.1,3,2
+Home_and_Kitchen_5,1.0,F,"I have had this system for a couple of months and I really love it. I have one in my bathroom and the other in my office. The light is great and it is easy to operate. I have been using it a couple of times now and I use it every day. I love it. I have a few people I hang out with and it is a great way to get a lot of sun exposure. I do not recommend it but I have a few other people that have it. I would highly recommend it.I bought these for my daughter to use for her kitchen projects and she loved them!  She said they look great in the living room and she loved them too!  I have been using them to keep them cold and I can tell they are going to last forever!  I love them!  I have used them for about a month now and I love the way they work.I really like these curtains. They are very cute and the colors are vibrant and vibrant. They are a bit darker than I expected but they are still bright and vibrant. I would definitely recommend this product.I love this pillow! I was very happy with this purchase! I would definitely recommend this pillow!I was looking for a nice, solid bed cover.  This is not.  It is a very thin, solid, well-made, and very comfortable.  It's a great price for what you get, and is well worth the money.This is the best mattress I've owned.  I've had it for a couple of months now and I haven't had any issues.  It's so comfortable, it feels like a",AMAZON,280,0.33403508771929835,0.16872427983539096,13,174,2.6,36,38
+Movies_and_TV_5,5.0,F,"Danny (Jet Li) is a woman who lives with her father's mother. When her father dies, her father's wife (Ryan Gosling) and son (Matthew McConaughey) leave her. When her father returns, she is sent to the orphanage to be cared for by the foster parents. When Ryan Gosling arrives, he is haunted by a ghostly figure who appears to be a great-grandson of his father. The ghost tells Ryan that his father died when he was a child, and that the spirits have returned. Ryan is forced to live with his mother, and he has to figure out why. When Ryan goes to the orphanage, his mother is unwell. When he sees the ghost, he looks for his father and finds nothing. When Ryan sees Ryan, he is taken back to the orphanage, where he meets a man named Bill (Ben Stiller). Bill is not a bad man, and is a good guy. Ryan is a good guy, and is very good at dealing with his mother. When Ryan meets Bill",AMAZON,171,0.35662337662337656,0.15827338129496402,3,88,4.1,30,33
+Movies_and_TV_5,5.0,F,"I grew up with this show. The characters were funny, the plot was predictable, and the actors were so well-acted. The characters were fun to watch, and the chemistry between the characters was well-developed. The acting was good. The special effects were excellent. The storyline was well-written and well-acted. The movie had a lot of action and was well-",AMAZON,59,0.31339285714285714,0.10416666666666667,0,33,4.2,7,14
+Toys_and_Games_5,5.0,F,my daughter loves to break things down and play with her Lego sets. This is a great set.,AMAZON,18,0.32222222222222224,0.0,1,9,0.9,2,2
+Home_and_Kitchen_5,5.0,F,I love pyrex quality and this set is the best. I will be purchasing more in the future,AMAZON,18,0.5,0.11764705882352941,2,11,3.3,2,1
+Tools_and_Home_Improvement_5,5.0,F,"Excellent filters, that do a good job, are very inexpensive.
+
+The only reason I gave",AMAZON,15,0.475,0.0,1,8,5.0,3,3
